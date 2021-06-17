@@ -15,7 +15,7 @@ export const geoReducer = (state, action) => {
           return {...state, emptyListMsg: action.payload};
      
      case 'SET_COUNTRY_FILTER':
-         return {...state,  ...{countryFilter : action.payload, loading: true}};
+         return {...state,  ...{countryFilter : action.payload, loading: true, cityFilter: '', currentCountryId: null, currentStateId: null, stateFilter: '', stateList:[], cityList: []}};
      case 'SET_STATE_FILTER':
          return {...state, ...{stateFilter : action.payload, cityList: [], cityFilter: ''}}; 
      
