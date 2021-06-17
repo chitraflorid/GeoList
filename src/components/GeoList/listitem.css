@@ -1,0 +1,33 @@
+li{
+  border-bottom: 1px solid gray;
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  padding-left: 5%;
+  flex-wrap: wrap;
+}
+
+li:last-of-type {
+  border: none;
+  padding-bottom: 0;
+}
+
+li.city {
+    justify-content: space-between;
+}
+
+.country > div, .state > div {
+  margin-right: 15px;
+}
+
+.country > div:last-of-type, .state > div:last-of-type, .state > div:last-of-type {
+  margin: 0%;
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+  background-color: none;
+}
+
+li:target {
+    background-color: #eceff1;
+}
