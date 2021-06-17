@@ -115,7 +115,6 @@ export const GeoProvider = ({ children }) => {
                 stateList: state.stateList,
                 cityList: state.cityList,
                 loading: state.loading,
-                initialLoadDone: state.initialLoadDone,
                 type: state.type, 
                 loadCountries,
                 loadStates,
