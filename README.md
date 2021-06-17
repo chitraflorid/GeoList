@@ -5,7 +5,7 @@ React js casdcading dropdown with search filter
 To-Do:
 ====
 
-Separate service to be created to load each data entity in a more performant way with caching using local storage.
-Each provider component for each list type (Country, State & City)
-Lazy loading / Windowing feature implementation for larger data lists.
-Memoize in relevant components.
+1. Separate service to be created to load each data entity in a more performant way with caching using local storage.
+2. Each provider component for each list type (Country, State & City)
+3. Lazy loading / Windowing feature implementation for larger data lists.
+4. Memoize in relevant components.
