@@ -1999,3 +1999,4005 @@
                 "abbreviation": "CET",
                 "tzName": "Central European Time"
             }
+                    ],
+        "translations": {
+            "br": "Argélia",
+            "pt": "Argélia",
+            "nl": "Algerije",
+            "hr": "Alžir",
+            "fa": "الجزایر",
+            "de": "Algerien",
+            "es": "Argelia",
+            "fr": "Algérie",
+            "ja": "アルジェリア",
+            "it": "Algeria"
+        },
+        "latitude": "28.00000000",
+        "longitude": "3.00000000",
+        "emoji": "🇩🇿",
+        "emojiU": "U+1F1E9 U+1F1FF",
+        "states": [
+            {
+                "id": 1118,
+                "name": "Adrar Province",
+                "state_code": "01",
+                "cities": [
+                    {
+                        "id": 31227,
+                        "name": "Adrar",
+                        "latitude": "27.87429000",
+                        "longitude": "-0.29388000"
+                    },
+                    {
+                        "id": 31234,
+                        "name": "Aoulef",
+                        "latitude": "26.96667000",
+                        "longitude": "1.08333000"
+                    },
+                    {
+                        "id": 31406,
+                        "name": "Reggane",
+                        "latitude": "26.71576000",
+                        "longitude": "0.17140000"
+                    },
+                    {
+                        "id": 31450,
+                        "name": "Timimoun",
+                        "latitude": "29.26388000",
+                        "longitude": "0.23098000"
+                    }
+                ]
+            },
+            {
+                "id": 1119,
+                "name": "Aïn Defla Province",
+                "state_code": "44",
+                "cities": [
+                    {
+                        "id": 31243,
+                        "name": "Aïn Defla",
+                        "latitude": "36.26405000",
+                        "longitude": "1.96790000"
+                    },
+                    {
+                        "id": 31325,
+                        "name": "El Abadia",
+                        "latitude": "36.26951000",
+                        "longitude": "1.68609000"
+                    },
+                    {
+                        "id": 31331,
+                        "name": "El Attaf",
+                        "latitude": "36.22393000",
+                        "longitude": "1.67187000"
+                    },
+                    {
+                        "id": 31361,
+                        "name": "Khemis Miliana",
+                        "latitude": "36.26104000",
+                        "longitude": "2.22015000"
+                    },
+                    {
+                        "id": 31448,
+                        "name": "Theniet el Had",
+                        "latitude": "35.87111000",
+                        "longitude": "2.02806000"
+                    }
+                ]
+            },
+            {
+                "id": 1122,
+                "name": "Aïn Témouchent Province",
+                "state_code": "46",
+                "cities": [
+                    {
+                        "id": 31250,
+                        "name": "Aïn Temouchent",
+                        "latitude": "35.29749000",
+                        "longitude": "-1.14037000"
+                    },
+                    {
+                        "id": 31265,
+                        "name": "Beni Saf",
+                        "latitude": "35.30099000",
+                        "longitude": "-1.38226000"
+                    },
+                    {
+                        "id": 31329,
+                        "name": "El Amria",
+                        "latitude": "35.52439000",
+                        "longitude": "-1.01577000"
+                    },
+                    {
+                        "id": 31340,
+                        "name": "El Malah",
+                        "latitude": "35.39137000",
+                        "longitude": "-1.09238000"
+                    },
+                    {
+                        "id": 31351,
+                        "name": "Hammam Bou Hadjar",
+                        "latitude": "35.37889000",
+                        "longitude": "-0.96778000"
+                    }
+                ]
+            },
+            {
+                "id": 1144,
+                "name": "Algiers Province",
+                "state_code": "16",
+                "cities": [
+                    {
+                        "id": 31249,
+                        "name": "Aïn Taya",
+                        "latitude": "36.79333000",
+                        "longitude": "3.28694000"
+                    },
+                    {
+                        "id": 31230,
+                        "name": "Algiers",
+                        "latitude": "36.73225000",
+                        "longitude": "3.08746000"
+                    },
+                    {
+                        "id": 31254,
+                        "name": "Bab Ezzouar",
+                        "latitude": "36.72615000",
+                        "longitude": "3.18291000"
+                    },
+                    {
+                        "id": 31274,
+                        "name": "Birkhadem",
+                        "latitude": "36.71499000",
+                        "longitude": "3.05002000"
+                    },
+                    {
+                        "id": 31281,
+                        "name": "Bordj el Kiffan",
+                        "latitude": "36.74871000",
+                        "longitude": "3.19249000"
+                    },
+                    {
+                        "id": 31312,
+                        "name": "Dar el Beïda",
+                        "latitude": "36.71333000",
+                        "longitude": "3.21250000"
+                    },
+                    {
+                        "id": 31413,
+                        "name": "Rouiba",
+                        "latitude": "36.73829000",
+                        "longitude": "3.28079000"
+                    }
+                ]
+            },
+            {
+                "id": 1103,
+                "name": "Annaba Province",
+                "state_code": "23",
+                "cities": [
+                    {
+                        "id": 31233,
+                        "name": "Annaba",
+                        "latitude": "36.90000000",
+                        "longitude": "7.76667000"
+                    },
+                    {
+                        "id": 31267,
+                        "name": "Berrahal",
+                        "latitude": "36.83528000",
+                        "longitude": "7.45333000"
+                    },
+                    {
+                        "id": 31323,
+                        "name": "Drean",
+                        "latitude": "36.68482000",
+                        "longitude": "7.75111000"
+                    },
+                    {
+                        "id": 31334,
+                        "name": "El Hadjar",
+                        "latitude": "36.80377000",
+                        "longitude": "7.73684000"
+                    }
+                ]
+            },
+            {
+                "id": 1142,
+                "name": "Batna Province",
+                "state_code": "05",
+                "cities": [
+                    {
+                        "id": 31251,
+                        "name": "Aïn Touta",
+                        "latitude": "35.37675000",
+                        "longitude": "5.90001000"
+                    },
+                    {
+                        "id": 31237,
+                        "name": "Arris",
+                        "latitude": "35.25881000",
+                        "longitude": "6.34706000"
+                    },
+                    {
+                        "id": 31257,
+                        "name": "Barika",
+                        "latitude": "35.38901000",
+                        "longitude": "5.36584000"
+                    },
+                    {
+                        "id": 31258,
+                        "name": "Batna",
+                        "latitude": "35.55597000",
+                        "longitude": "6.17414000"
+                    },
+                    {
+                        "id": 31292,
+                        "name": "Boumagueur",
+                        "latitude": "35.50520000",
+                        "longitude": "5.55250000"
+                    },
+                    {
+                        "id": 31382,
+                        "name": "Merouana",
+                        "latitude": "35.63106000",
+                        "longitude": "5.91186000"
+                    },
+                    {
+                        "id": 31415,
+                        "name": "Râs el Aïoun",
+                        "latitude": "35.67384000",
+                        "longitude": "5.64530000"
+                    },
+                    {
+                        "id": 31444,
+                        "name": "Tazoult-Lambese",
+                        "latitude": "35.48171000",
+                        "longitude": "6.26074000"
+                    }
+                ]
+            },
+            {
+                "id": 1108,
+                "name": "Béchar Province",
+                "state_code": "08",
+                "cities": [
+                    {
+                        "id": 31298,
+                        "name": "Béchar",
+                        "latitude": "31.61667000",
+                        "longitude": "-2.21667000"
+                    }
+                ]
+            },
+            {
+                "id": 1128,
+                "name": "Béjaïa Province",
+                "state_code": "06",
+                "cities": [
+                    {
+                        "id": 31229,
+                        "name": "Akbou",
+                        "latitude": "36.45750000",
+                        "longitude": "4.53494000"
+                    },
+                    {
+                        "id": 31231,
+                        "name": "Amizour",
+                        "latitude": "36.64022000",
+                        "longitude": "4.90131000"
+                    },
+                    {
+                        "id": 31256,
+                        "name": "Barbacha",
+                        "latitude": "36.56667000",
+                        "longitude": "4.96667000"
+                    },
+                    {
+                        "id": 31259,
+                        "name": "Bejaïa",
+                        "latitude": "36.75587000",
+                        "longitude": "5.08433000"
+                    },
+                    {
+                        "id": 31467,
+                        "name": "el hed",
+                        "latitude": "36.65000000",
+                        "longitude": "4.77361000"
+                    },
+                    {
+                        "id": 31339,
+                        "name": "El Kseur",
+                        "latitude": "36.67942000",
+                        "longitude": "4.85550000"
+                    },
+                    {
+                        "id": 31344,
+                        "name": "Feraoun",
+                        "latitude": "36.56041000",
+                        "longitude": "4.85454000"
+                    },
+                    {
+                        "id": 31421,
+                        "name": "Seddouk",
+                        "latitude": "36.54722000",
+                        "longitude": "4.68611000"
+                    }
+                ]
+            },
+            {
+                "id": 1114,
+                "name": "Biskra",
+                "state_code": "07",
+                "cities": [
+                    {
+                        "id": 31275,
+                        "name": "Biskra",
+                        "latitude": "34.85038000",
+                        "longitude": "5.72805000"
+                    },
+                    {
+                        "id": 31405,
+                        "name": "Oumache",
+                        "latitude": "34.69292000",
+                        "longitude": "5.68092000"
+                    },
+                    {
+                        "id": 31427,
+                        "name": "Sidi Khaled",
+                        "latitude": "34.38700000",
+                        "longitude": "4.98785000"
+                    },
+                    {
+                        "id": 31430,
+                        "name": "Sidi Okba",
+                        "latitude": "34.74512000",
+                        "longitude": "5.89833000"
+                    },
+                    {
+                        "id": 31461,
+                        "name": "Tolga",
+                        "latitude": "34.72224000",
+                        "longitude": "5.37845000"
+                    },
+                    {
+                        "id": 31466,
+                        "name": "Zeribet el Oued",
+                        "latitude": "34.68284000",
+                        "longitude": "6.51109000"
+                    }
+                ]
+            },
+            {
+                "id": 1111,
+                "name": "Blida Province",
+                "state_code": "09",
+                "cities": [
+                    {
+                        "id": 31263,
+                        "name": "Beni Mered",
+                        "latitude": "36.52389000",
+                        "longitude": "2.86131000"
+                    },
+                    {
+                        "id": 31276,
+                        "name": "Blida",
+                        "latitude": "36.47004000",
+                        "longitude": "2.82770000"
+                    },
+                    {
+                        "id": 31296,
+                        "name": "Boû Arfa",
+                        "latitude": "36.46298000",
+                        "longitude": "2.81464000"
+                    },
+                    {
+                        "id": 31287,
+                        "name": "Boufarik",
+                        "latitude": "36.57413000",
+                        "longitude": "2.91214000"
+                    },
+                    {
+                        "id": 31289,
+                        "name": "Bougara",
+                        "latitude": "36.54178000",
+                        "longitude": "3.08100000"
+                    },
+                    {
+                        "id": 31290,
+                        "name": "Bouinan",
+                        "latitude": "36.53167000",
+                        "longitude": "2.99194000"
+                    },
+                    {
+                        "id": 31301,
+                        "name": "Chebli",
+                        "latitude": "36.57722000",
+                        "longitude": "3.00917000"
+                    },
+                    {
+                        "id": 31307,
+                        "name": "Chiffa",
+                        "latitude": "36.46293000",
+                        "longitude": "2.73873000"
+                    },
+                    {
+                        "id": 31369,
+                        "name": "Larbaâ",
+                        "latitude": "36.56471000",
+                        "longitude": "3.15434000"
+                    },
+                    {
+                        "id": 31377,
+                        "name": "Meftah",
+                        "latitude": "36.62040000",
+                        "longitude": "3.22248000"
+                    },
+                    {
+                        "id": 31428,
+                        "name": "Sidi Moussa",
+                        "latitude": "36.60637000",
+                        "longitude": "3.08783000"
+                    },
+                    {
+                        "id": 31438,
+                        "name": "Souma",
+                        "latitude": "36.51833000",
+                        "longitude": "2.90528000"
+                    }
+                ]
+            },
+            {
+                "id": 1116,
+                "name": "Bordj Bou Arréridj Province",
+                "state_code": "34",
+                "cities": [
+                    {
+                        "id": 31278,
+                        "name": "Bordj Bou Arreridj",
+                        "latitude": "36.07321000",
+                        "longitude": "4.76108000"
+                    },
+                    {
+                        "id": 31279,
+                        "name": "Bordj Ghdir",
+                        "latitude": "35.90111000",
+                        "longitude": "4.89806000"
+                    },
+                    {
+                        "id": 31280,
+                        "name": "Bordj Zemoura",
+                        "latitude": "36.27462000",
+                        "longitude": "4.85668000"
+                    },
+                    {
+                        "id": 31327,
+                        "name": "El Achir",
+                        "latitude": "36.06386000",
+                        "longitude": "4.62744000"
+                    },
+                    {
+                        "id": 31373,
+                        "name": "Mansourah",
+                        "latitude": "36.08725000",
+                        "longitude": "4.45192000"
+                    },
+                    {
+                        "id": 31381,
+                        "name": "Melouza",
+                        "latitude": "35.97999000",
+                        "longitude": "4.18665000"
+                    },
+                    {
+                        "id": 31416,
+                        "name": "Râs el Oued",
+                        "latitude": "35.94410000",
+                        "longitude": "5.03107000"
+                    }
+                ]
+            },
+            {
+                "id": 1104,
+                "name": "Bouïra Province",
+                "state_code": "10",
+                "cities": [
+                    {
+                        "id": 31241,
+                        "name": "Aïn Bessem",
+                        "latitude": "36.29333000",
+                        "longitude": "3.67319000"
+                    },
+                    {
+                        "id": 31295,
+                        "name": "Bouïra",
+                        "latitude": "36.37489000",
+                        "longitude": "3.90200000"
+                    },
+                    {
+                        "id": 31309,
+                        "name": "Chorfa",
+                        "latitude": "36.36505000",
+                        "longitude": "4.32636000"
+                    },
+                    {
+                        "id": 31322,
+                        "name": "Draa el Mizan",
+                        "latitude": "36.53628000",
+                        "longitude": "3.83340000"
+                    },
+                    {
+                        "id": 31368,
+                        "name": "Lakhdaria",
+                        "latitude": "36.56463000",
+                        "longitude": "3.59330000"
+                    },
+                    {
+                        "id": 31439,
+                        "name": "Sour el Ghozlane",
+                        "latitude": "36.14766000",
+                        "longitude": "3.69123000"
+                    }
+                ]
+            },
+            {
+                "id": 1125,
+                "name": "Boumerdès Province",
+                "state_code": "35",
+                "cities": [
+                    {
+                        "id": 31235,
+                        "name": "Arbatache",
+                        "latitude": "36.63773000",
+                        "longitude": "3.37127000"
+                    },
+                    {
+                        "id": 31261,
+                        "name": "Beni Amrane",
+                        "latitude": "36.66774000",
+                        "longitude": "3.59115000"
+                    },
+                    {
+                        "id": 31286,
+                        "name": "Boudouaou",
+                        "latitude": "36.72735000",
+                        "longitude": "3.40995000"
+                    },
+                    {
+                        "id": 31294,
+                        "name": "Boumerdas",
+                        "latitude": "36.76639000",
+                        "longitude": "3.47717000"
+                    },
+                    {
+                        "id": 31299,
+                        "name": "Chabet el Ameur",
+                        "latitude": "36.63709000",
+                        "longitude": "3.69474000"
+                    },
+                    {
+                        "id": 31314,
+                        "name": "Dellys",
+                        "latitude": "36.91716000",
+                        "longitude": "3.91311000"
+                    },
+                    {
+                        "id": 31362,
+                        "name": "Khemis el Khechna",
+                        "latitude": "36.64997000",
+                        "longitude": "3.33080000"
+                    },
+                    {
+                        "id": 31372,
+                        "name": "Makouda",
+                        "latitude": "36.78567000",
+                        "longitude": "4.06273000"
+                    },
+                    {
+                        "id": 31393,
+                        "name": "Naciria",
+                        "latitude": "36.74625000",
+                        "longitude": "3.83163000"
+                    },
+                    {
+                        "id": 31403,
+                        "name": "Ouled Moussa",
+                        "latitude": "36.68394000",
+                        "longitude": "3.36661000"
+                    },
+                    {
+                        "id": 31407,
+                        "name": "Reghaïa",
+                        "latitude": "36.73587000",
+                        "longitude": "3.34018000"
+                    },
+                    {
+                        "id": 31441,
+                        "name": "Tadmaït",
+                        "latitude": "36.74413000",
+                        "longitude": "3.90045000"
+                    },
+                    {
+                        "id": 31447,
+                        "name": "Thenia",
+                        "latitude": "36.72544000",
+                        "longitude": "3.55665000"
+                    },
+                    {
+                        "id": 31456,
+                        "name": "Tizi Gheniff",
+                        "latitude": "36.58839000",
+                        "longitude": "3.77445000"
+                    }
+                ]
+            },
+            {
+                "id": 1105,
+                "name": "Chlef Province",
+                "state_code": "02",
+                "cities": [
+                    {
+                        "id": 31226,
+                        "name": "Abou el Hassan",
+                        "latitude": "36.41657000",
+                        "longitude": "1.19616000"
+                    },
+                    {
+                        "id": 31291,
+                        "name": "Boukadir",
+                        "latitude": "36.06629000",
+                        "longitude": "1.12602000"
+                    },
+                    {
+                        "id": 31308,
+                        "name": "Chlef",
+                        "latitude": "36.16525000",
+                        "longitude": "1.33452000"
+                    },
+                    {
+                        "id": 31324,
+                        "name": "Ech Chettia",
+                        "latitude": "36.19591000",
+                        "longitude": "1.25537000"
+                    },
+                    {
+                        "id": 31397,
+                        "name": "Oued Fodda",
+                        "latitude": "36.18503000",
+                        "longitude": "1.53299000"
+                    },
+                    {
+                        "id": 31399,
+                        "name": "Oued Sly",
+                        "latitude": "36.10124000",
+                        "longitude": "1.19949000"
+                    },
+                    {
+                        "id": 31424,
+                        "name": "Sidi Akkacha",
+                        "latitude": "36.46472000",
+                        "longitude": "1.30258000"
+                    }
+                ]
+            },
+            {
+                "id": 1121,
+                "name": "Constantine Province",
+                "state_code": "25",
+                "cities": [
+                    {
+                        "id": 31469,
+                        "name": "’Aïn Abid",
+                        "latitude": "36.23194000",
+                        "longitude": "6.94333000"
+                    },
+                    {
+                        "id": 31248,
+                        "name": "Aïn Smara",
+                        "latitude": "36.26740000",
+                        "longitude": "6.50135000"
+                    },
+                    {
+                        "id": 31310,
+                        "name": "Constantine",
+                        "latitude": "36.36500000",
+                        "longitude": "6.61472000"
+                    },
+                    {
+                        "id": 31315,
+                        "name": "Didouche Mourad",
+                        "latitude": "36.45250000",
+                        "longitude": "6.63639000"
+                    },
+                    {
+                        "id": 31338,
+                        "name": "El Khroub",
+                        "latitude": "36.26333000",
+                        "longitude": "6.69361000"
+                    },
+                    {
+                        "id": 31350,
+                        "name": "Hamma Bouziane",
+                        "latitude": "36.41205000",
+                        "longitude": "6.59603000"
+                    }
+                ]
+            },
+            {
+                "id": 1098,
+                "name": "Djelfa Province",
+                "state_code": "17",
+                "cities": [
+                    {
+                        "id": 31474,
+                        "name": "’Aïn el Bell",
+                        "latitude": "34.34381000",
+                        "longitude": "3.22475000"
+                    },
+                    {
+                        "id": 31246,
+                        "name": "Aïn Oussera",
+                        "latitude": "35.45139000",
+                        "longitude": "2.90583000"
+                    },
+                    {
+                        "id": 31273,
+                        "name": "Birine",
+                        "latitude": "35.63500000",
+                        "longitude": "3.22500000"
+                    },
+                    {
+                        "id": 31300,
+                        "name": "Charef",
+                        "latitude": "34.62098000",
+                        "longitude": "2.79503000"
+                    },
+                    {
+                        "id": 31311,
+                        "name": "Dar Chioukh",
+                        "latitude": "34.89638000",
+                        "longitude": "3.48543000"
+                    },
+                    {
+                        "id": 31318,
+                        "name": "Djelfa",
+                        "latitude": "34.67279000",
+                        "longitude": "3.26300000"
+                    },
+                    {
+                        "id": 31336,
+                        "name": "El Idrissia",
+                        "latitude": "34.44542000",
+                        "longitude": "2.52749000"
+                    },
+                    {
+                        "id": 31385,
+                        "name": "Messaad",
+                        "latitude": "34.15429000",
+                        "longitude": "3.50309000"
+                    }
+                ]
+            },
+            {
+                "id": 1129,
+                "name": "El Bayadh Province",
+                "state_code": "32",
+                "cities": [
+                    {
+                        "id": 31297,
+                        "name": "Brezina",
+                        "latitude": "33.09892000",
+                        "longitude": "1.26082000"
+                    },
+                    {
+                        "id": 31326,
+                        "name": "El Abiodh Sidi Cheikh",
+                        "latitude": "32.89300000",
+                        "longitude": "0.54839000"
+                    },
+                    {
+                        "id": 31332,
+                        "name": "El Bayadh",
+                        "latitude": "33.68318000",
+                        "longitude": "1.01927000"
+                    }
+                ]
+            },
+            {
+                "id": 1099,
+                "name": "El Oued Province",
+                "state_code": "39",
+                "cities": [
+                    {
+                        "id": 31313,
+                        "name": "Debila",
+                        "latitude": "33.51667000",
+                        "longitude": "6.95000000"
+                    },
+                    {
+                        "id": 31341,
+                        "name": "El Oued",
+                        "latitude": "33.35608000",
+                        "longitude": "6.86319000"
+                    },
+                    {
+                        "id": 31408,
+                        "name": "Reguiba",
+                        "latitude": "33.56391000",
+                        "longitude": "6.70326000"
+                    },
+                    {
+                        "id": 31411,
+                        "name": "Robbah",
+                        "latitude": "33.27967000",
+                        "longitude": "6.90984000"
+                    }
+                ]
+            },
+            {
+                "id": 1100,
+                "name": "El Tarf Province",
+                "state_code": "36",
+                "cities": [
+                    {
+                        "id": 31260,
+                        "name": "Ben Mehidi",
+                        "latitude": "36.76967000",
+                        "longitude": "7.90641000"
+                    },
+                    {
+                        "id": 31270,
+                        "name": "Besbes",
+                        "latitude": "36.70222000",
+                        "longitude": "7.84722000"
+                    },
+                    {
+                        "id": 31337,
+                        "name": "El Kala",
+                        "latitude": "36.89556000",
+                        "longitude": "8.44333000"
+                    },
+                    {
+                        "id": 31342,
+                        "name": "El Tarf",
+                        "latitude": "36.76720000",
+                        "longitude": "8.31377000"
+                    }
+                ]
+            },
+            {
+                "id": 1127,
+                "name": "Ghardaïa Province",
+                "state_code": "47",
+                "cities": [
+                    {
+                        "id": 31268,
+                        "name": "Berriane",
+                        "latitude": "32.82648000",
+                        "longitude": "3.76689000"
+                    },
+                    {
+                        "id": 31347,
+                        "name": "Ghardaïa",
+                        "latitude": "32.49094000",
+                        "longitude": "3.67347000"
+                    },
+                    {
+                        "id": 31386,
+                        "name": "Metlili Chaamba",
+                        "latitude": "32.26667000",
+                        "longitude": "3.63333000"
+                    }
+                ]
+            },
+            {
+                "id": 1137,
+                "name": "Guelma Province",
+                "state_code": "24",
+                "cities": [
+                    {
+                        "id": 31293,
+                        "name": "Boumahra Ahmed",
+                        "latitude": "36.45833000",
+                        "longitude": "7.51389000"
+                    },
+                    {
+                        "id": 31348,
+                        "name": "Guelma",
+                        "latitude": "36.46214000",
+                        "longitude": "7.42608000"
+                    },
+                    {
+                        "id": 31355,
+                        "name": "Héliopolis",
+                        "latitude": "36.50361000",
+                        "longitude": "7.44278000"
+                    }
+                ]
+            },
+            {
+                "id": 1112,
+                "name": "Illizi Province",
+                "state_code": "33",
+                "cities": [
+                    {
+                        "id": 31358,
+                        "name": "Illizi",
+                        "latitude": "26.48333000",
+                        "longitude": "8.46667000"
+                    }
+                ]
+            },
+            {
+                "id": 1113,
+                "name": "Jijel Province",
+                "state_code": "18",
+                "cities": [
+                    {
+                        "id": 31359,
+                        "name": "Jijel",
+                        "latitude": "36.82055000",
+                        "longitude": "5.76671000"
+                    }
+                ]
+            },
+            {
+                "id": 1126,
+                "name": "Khenchela Province",
+                "state_code": "40",
+                "cities": [
+                    {
+                        "id": 31363,
+                        "name": "Khenchela",
+                        "latitude": "35.43583000",
+                        "longitude": "7.14333000"
+                    }
+                ]
+            },
+            {
+                "id": 1138,
+                "name": "Laghouat Province",
+                "state_code": "03",
+                "cities": [
+                    {
+                        "id": 31228,
+                        "name": "Aflou",
+                        "latitude": "34.11279000",
+                        "longitude": "2.10228000"
+                    },
+                    {
+                        "id": 31367,
+                        "name": "Laghouat",
+                        "latitude": "33.80000000",
+                        "longitude": "2.86514000"
+                    }
+                ]
+            },
+            {
+                "id": 1134,
+                "name": "M'Sila Province",
+                "state_code": "28",
+                "cities": [
+                    {
+                        "id": 31468,
+                        "name": "‘Aïn el Hadjel",
+                        "latitude": "35.67003000",
+                        "longitude": "3.88153000"
+                    },
+                    {
+                        "id": 31477,
+                        "name": "’Aïn el Melh",
+                        "latitude": "34.84146000",
+                        "longitude": "4.16383000"
+                    },
+                    {
+                        "id": 31391,
+                        "name": "M’Sila",
+                        "latitude": "35.70583000",
+                        "longitude": "4.54194000"
+                    },
+                    {
+                        "id": 31426,
+                        "name": "Sidi Aïssa",
+                        "latitude": "35.88548000",
+                        "longitude": "3.77236000"
+                    }
+                ]
+            },
+            {
+                "id": 1124,
+                "name": "Mascara Province",
+                "state_code": "29",
+                "cities": [
+                    {
+                        "id": 31282,
+                        "name": "Bou Hanifia el Hamamat",
+                        "latitude": "35.31473000",
+                        "longitude": "-0.05037000"
+                    },
+                    {
+                        "id": 31375,
+                        "name": "Mascara",
+                        "latitude": "35.39664000",
+                        "longitude": "0.14027000"
+                    },
+                    {
+                        "id": 31400,
+                        "name": "Oued el Abtal",
+                        "latitude": "35.45595000",
+                        "longitude": "0.68778000"
+                    },
+                    {
+                        "id": 31433,
+                        "name": "Sig",
+                        "latitude": "35.52832000",
+                        "longitude": "-0.19369000"
+                    }
+                ]
+            },
+            {
+                "id": 1109,
+                "name": "Médéa Province",
+                "state_code": "26",
+                "cities": [
+                    {
+                        "id": 31471,
+                        "name": "’Aïn Boucif",
+                        "latitude": "35.89123000",
+                        "longitude": "3.15850000"
+                    },
+                    {
+                        "id": 31269,
+                        "name": "Berrouaghia",
+                        "latitude": "36.13516000",
+                        "longitude": "2.91085000"
+                    },
+                    {
+                        "id": 31366,
+                        "name": "Ksar el Boukhari",
+                        "latitude": "35.88889000",
+                        "longitude": "2.74905000"
+                    },
+                    {
+                        "id": 31390,
+                        "name": "Médéa",
+                        "latitude": "36.26417000",
+                        "longitude": "2.75393000"
+                    }
+                ]
+            },
+            {
+                "id": 1132,
+                "name": "Mila Province",
+                "state_code": "43",
+                "cities": [
+                    {
+                        "id": 31302,
+                        "name": "Chelghoum el Aïd",
+                        "latitude": "36.16286000",
+                        "longitude": "6.16651000"
+                    },
+                    {
+                        "id": 31387,
+                        "name": "Mila",
+                        "latitude": "36.45028000",
+                        "longitude": "6.26444000"
+                    },
+                    {
+                        "id": 31412,
+                        "name": "Rouached",
+                        "latitude": "36.45774000",
+                        "longitude": "6.04267000"
+                    },
+                    {
+                        "id": 31429,
+                        "name": "Sidi Mérouane",
+                        "latitude": "36.52056000",
+                        "longitude": "6.26111000"
+                    },
+                    {
+                        "id": 31446,
+                        "name": "Telerghma",
+                        "latitude": "36.11653000",
+                        "longitude": "6.35434000"
+                    }
+                ]
+            },
+            {
+                "id": 1140,
+                "name": "Mostaganem Province",
+                "state_code": "27",
+                "cities": [
+                    {
+                        "id": 31388,
+                        "name": "Mostaganem",
+                        "latitude": "35.93115000",
+                        "longitude": "0.08918000"
+                    }
+                ]
+            },
+            {
+                "id": 1102,
+                "name": "Naama Province",
+                "state_code": "45",
+                "cities": [
+                    {
+                        "id": 31247,
+                        "name": "Aïn Sefra",
+                        "latitude": "32.75000000",
+                        "longitude": "-0.58333000"
+                    },
+                    {
+                        "id": 31392,
+                        "name": "Naama",
+                        "latitude": "33.26667000",
+                        "longitude": "-0.31667000"
+                    }
+                ]
+            },
+            {
+                "id": 1101,
+                "name": "Oran Province",
+                "state_code": "31",
+                "cities": [
+                    {
+                        "id": 31478,
+                        "name": "’Aïn el Turk",
+                        "latitude": "35.74381000",
+                        "longitude": "-0.76930000"
+                    },
+                    {
+                        "id": 31252,
+                        "name": "Aïn el Bya",
+                        "latitude": "35.80389000",
+                        "longitude": "-0.30178000"
+                    },
+                    {
+                        "id": 31272,
+                        "name": "Bir el Djir",
+                        "latitude": "35.72000000",
+                        "longitude": "-0.54500000"
+                    },
+                    {
+                        "id": 31284,
+                        "name": "Bou Tlelis",
+                        "latitude": "35.57272000",
+                        "longitude": "-0.89960000"
+                    },
+                    {
+                        "id": 31343,
+                        "name": "Es Senia",
+                        "latitude": "35.64779000",
+                        "longitude": "-0.62397000"
+                    },
+                    {
+                        "id": 31383,
+                        "name": "Mers el Kebir",
+                        "latitude": "35.72790000",
+                        "longitude": "-0.70810000"
+                    },
+                    {
+                        "id": 31395,
+                        "name": "Oran",
+                        "latitude": "35.69906000",
+                        "longitude": "-0.63588000"
+                    },
+                    {
+                        "id": 31432,
+                        "name": "Sidi ech Chahmi",
+                        "latitude": "35.65903000",
+                        "longitude": "-0.52168000"
+                    }
+                ]
+            },
+            {
+                "id": 1139,
+                "name": "Ouargla Province",
+                "state_code": "30",
+                "cities": [
+                    {
+                        "id": 31316,
+                        "name": "Djamaa",
+                        "latitude": "33.53388000",
+                        "longitude": "5.99306000"
+                    },
+                    {
+                        "id": 31335,
+                        "name": "El Hadjira",
+                        "latitude": "32.61336000",
+                        "longitude": "5.51259000"
+                    },
+                    {
+                        "id": 31353,
+                        "name": "Hassi Messaoud",
+                        "latitude": "31.68041000",
+                        "longitude": "6.07286000"
+                    },
+                    {
+                        "id": 31378,
+                        "name": "Megarine",
+                        "latitude": "33.19195000",
+                        "longitude": "6.08695000"
+                    },
+                    {
+                        "id": 31396,
+                        "name": "Ouargla",
+                        "latitude": "31.94932000",
+                        "longitude": "5.32502000"
+                    },
+                    {
+                        "id": 31414,
+                        "name": "Rouissat",
+                        "latitude": "31.92427000",
+                        "longitude": "5.35018000"
+                    },
+                    {
+                        "id": 31425,
+                        "name": "Sidi Amrane",
+                        "latitude": "33.49885000",
+                        "longitude": "6.00803000"
+                    },
+                    {
+                        "id": 31445,
+                        "name": "Tebesbest",
+                        "latitude": "33.11667000",
+                        "longitude": "6.08333000"
+                    },
+                    {
+                        "id": 31462,
+                        "name": "Touggourt",
+                        "latitude": "33.10527000",
+                        "longitude": "6.05796000"
+                    }
+                ]
+            },
+            {
+                "id": 1136,
+                "name": "Oum El Bouaghi Province",
+                "state_code": "04",
+                "cities": [
+                    {
+                        "id": 31242,
+                        "name": "Aïn Beïda",
+                        "latitude": "35.79639000",
+                        "longitude": "7.39278000"
+                    },
+                    {
+                        "id": 31244,
+                        "name": "Aïn Fakroun",
+                        "latitude": "35.97108000",
+                        "longitude": "6.87374000"
+                    },
+                    {
+                        "id": 31245,
+                        "name": "Aïn Kercha",
+                        "latitude": "35.92472000",
+                        "longitude": "6.69528000"
+                    },
+                    {
+                        "id": 31330,
+                        "name": "El Aouinet",
+                        "latitude": "35.86691000",
+                        "longitude": "7.88673000"
+                    },
+                    {
+                        "id": 31384,
+                        "name": "Meskiana",
+                        "latitude": "35.63058000",
+                        "longitude": "7.66606000"
+                    },
+                    {
+                        "id": 31404,
+                        "name": "Oum el Bouaghi",
+                        "latitude": "35.87541000",
+                        "longitude": "7.11353000"
+                    }
+                ]
+            },
+            {
+                "id": 1130,
+                "name": "Relizane Province",
+                "state_code": "48",
+                "cities": [
+                    {
+                        "id": 31473,
+                        "name": "’Aïn Merane",
+                        "latitude": "36.16277000",
+                        "longitude": "0.97037000"
+                    },
+                    {
+                        "id": 31232,
+                        "name": "Ammi Moussa",
+                        "latitude": "35.86781000",
+                        "longitude": "1.11143000"
+                    },
+                    {
+                        "id": 31319,
+                        "name": "Djidiouia",
+                        "latitude": "35.92989000",
+                        "longitude": "0.82871000"
+                    },
+                    {
+                        "id": 31376,
+                        "name": "Mazouna",
+                        "latitude": "36.12232000",
+                        "longitude": "0.89865000"
+                    },
+                    {
+                        "id": 31398,
+                        "name": "Oued Rhiou",
+                        "latitude": "35.96124000",
+                        "longitude": "0.91896000"
+                    },
+                    {
+                        "id": 31409,
+                        "name": "Relizane",
+                        "latitude": "35.73734000",
+                        "longitude": "0.55599000"
+                    },
+                    {
+                        "id": 31435,
+                        "name": "Smala",
+                        "latitude": "35.71652000",
+                        "longitude": "0.75437000"
+                    },
+                    {
+                        "id": 31464,
+                        "name": "Zemoura",
+                        "latitude": "35.72251000",
+                        "longitude": "0.75509000"
+                    }
+                ]
+            },
+            {
+                "id": 1123,
+                "name": "Saïda Province",
+                "state_code": "20",
+                "cities": [
+                    {
+                        "id": 31475,
+                        "name": "’Aïn el Hadjar",
+                        "latitude": "34.75846000",
+                        "longitude": "0.14528000"
+                    },
+                    {
+                        "id": 31419,
+                        "name": "Saïda",
+                        "latitude": "34.83033000",
+                        "longitude": "0.15171000"
+                    }
+                ]
+            },
+            {
+                "id": 1141,
+                "name": "Sétif Province",
+                "state_code": "19",
+                "cities": [
+                    {
+                        "id": 31240,
+                        "name": "Aïn Arnat",
+                        "latitude": "36.18683000",
+                        "longitude": "5.31347000"
+                    },
+                    {
+                        "id": 31253,
+                        "name": "BABOR - VILLE",
+                        "latitude": "36.48994000",
+                        "longitude": "5.53930000"
+                    },
+                    {
+                        "id": 31288,
+                        "name": "Bougaa",
+                        "latitude": "36.33293000",
+                        "longitude": "5.08843000"
+                    },
+                    {
+                        "id": 31333,
+                        "name": "El Eulma",
+                        "latitude": "36.15281000",
+                        "longitude": "5.69016000"
+                    },
+                    {
+                        "id": 31417,
+                        "name": "Salah Bey",
+                        "latitude": "35.85451000",
+                        "longitude": "5.29053000"
+                    },
+                    {
+                        "id": 31440,
+                        "name": "Sétif",
+                        "latitude": "36.19112000",
+                        "longitude": "5.41373000"
+                    }
+                ]
+            },
+            {
+                "id": 1110,
+                "name": "Skikda Province",
+                "state_code": "21",
+                "cities": [
+                    {
+                        "id": 31239,
+                        "name": "Azzaba",
+                        "latitude": "36.73944000",
+                        "longitude": "7.10528000"
+                    },
+                    {
+                        "id": 31360,
+                        "name": "Karkira",
+                        "latitude": "36.92917000",
+                        "longitude": "6.58556000"
+                    },
+                    {
+                        "id": 31434,
+                        "name": "Skikda",
+                        "latitude": "36.87617000",
+                        "longitude": "6.90921000"
+                    },
+                    {
+                        "id": 31442,
+                        "name": "Tamalous",
+                        "latitude": "36.83763000",
+                        "longitude": "6.64018000"
+                    }
+                ]
+            },
+            {
+                "id": 1143,
+                "name": "Souk Ahras Province",
+                "state_code": "41",
+                "cities": [
+                    {
+                        "id": 31422,
+                        "name": "Sedrata",
+                        "latitude": "36.12868000",
+                        "longitude": "7.53376000"
+                    },
+                    {
+                        "id": 31437,
+                        "name": "Souk Ahras",
+                        "latitude": "36.28639000",
+                        "longitude": "7.95111000"
+                    }
+                ]
+            },
+            {
+                "id": 1135,
+                "name": "Tamanghasset Province",
+                "state_code": "11",
+                "cities": [
+                    {
+                        "id": 31356,
+                        "name": "I-n-Salah",
+                        "latitude": "27.19351000",
+                        "longitude": "2.46069000"
+                    },
+                    {
+                        "id": 31443,
+                        "name": "Tamanrasset",
+                        "latitude": "22.78500000",
+                        "longitude": "5.52278000"
+                    }
+                ]
+            },
+            {
+                "id": 1117,
+                "name": "Tébessa Province",
+                "state_code": "12",
+                "cities": [
+                    {
+                        "id": 31271,
+                        "name": "Bir el Ater",
+                        "latitude": "34.74488000",
+                        "longitude": "8.06024000"
+                    },
+                    {
+                        "id": 31305,
+                        "name": "Cheria",
+                        "latitude": "35.27306000",
+                        "longitude": "7.75194000"
+                    },
+                    {
+                        "id": 31352,
+                        "name": "Hammamet",
+                        "latitude": "35.44862000",
+                        "longitude": "7.95184000"
+                    },
+                    {
+                        "id": 31463,
+                        "name": "Tébessa",
+                        "latitude": "35.40417000",
+                        "longitude": "8.12417000"
+                    }
+                ]
+            },
+            {
+                "id": 1106,
+                "name": "Tiaret Province",
+                "state_code": "14",
+                "cities": [
+                    {
+                        "id": 31472,
+                        "name": "’Aïn Deheb",
+                        "latitude": "34.84218000",
+                        "longitude": "1.54697000"
+                    },
+                    {
+                        "id": 31317,
+                        "name": "Djebilet Rosfa",
+                        "latitude": "34.86375000",
+                        "longitude": "0.83496000"
+                    },
+                    {
+                        "id": 31346,
+                        "name": "Frenda",
+                        "latitude": "35.06544000",
+                        "longitude": "1.04945000"
+                    },
+                    {
+                        "id": 31365,
+                        "name": "Ksar Chellala",
+                        "latitude": "35.21222000",
+                        "longitude": "2.31889000"
+                    },
+                    {
+                        "id": 31379,
+                        "name": "Mehdia daira de meghila",
+                        "latitude": "35.43058000",
+                        "longitude": "1.75714000"
+                    },
+                    {
+                        "id": 31436,
+                        "name": "Sougueur",
+                        "latitude": "35.18568000",
+                        "longitude": "1.49612000"
+                    },
+                    {
+                        "id": 31449,
+                        "name": "Tiaret",
+                        "latitude": "35.37103000",
+                        "longitude": "1.31699000"
+                    }
+                ]
+            },
+            {
+                "id": 1120,
+                "name": "Tindouf Province",
+                "state_code": "37",
+                "cities": [
+                    {
+                        "id": 31452,
+                        "name": "Tindouf",
+                        "latitude": "27.67111000",
+                        "longitude": "-8.14743000"
+                    }
+                ]
+            },
+            {
+                "id": 1115,
+                "name": "Tipasa Province",
+                "state_code": "42",
+                "cities": [
+                    {
+                        "id": 31470,
+                        "name": "’Aïn Benian",
+                        "latitude": "36.80277000",
+                        "longitude": "2.92185000"
+                    },
+                    {
+                        "id": 31255,
+                        "name": "Baraki",
+                        "latitude": "36.66655000",
+                        "longitude": "3.09606000"
+                    },
+                    {
+                        "id": 31283,
+                        "name": "Bou Ismaïl",
+                        "latitude": "36.64262000",
+                        "longitude": "2.69007000"
+                    },
+                    {
+                        "id": 31304,
+                        "name": "Cheraga",
+                        "latitude": "36.76775000",
+                        "longitude": "2.95924000"
+                    },
+                    {
+                        "id": 31320,
+                        "name": "Douera",
+                        "latitude": "36.67000000",
+                        "longitude": "2.94444000"
+                    },
+                    {
+                        "id": 31328,
+                        "name": "El Affroun",
+                        "latitude": "36.47010000",
+                        "longitude": "2.62528000"
+                    },
+                    {
+                        "id": 31349,
+                        "name": "Hadjout",
+                        "latitude": "36.51257000",
+                        "longitude": "2.41382000"
+                    },
+                    {
+                        "id": 31364,
+                        "name": "Kolea",
+                        "latitude": "36.63888000",
+                        "longitude": "2.76845000"
+                    },
+                    {
+                        "id": 31389,
+                        "name": "Mouzaïa",
+                        "latitude": "36.46695000",
+                        "longitude": "2.68991000"
+                    },
+                    {
+                        "id": 31401,
+                        "name": "Oued el Alleug",
+                        "latitude": "36.55528000",
+                        "longitude": "2.79028000"
+                    },
+                    {
+                        "id": 31418,
+                        "name": "Saoula",
+                        "latitude": "36.70456000",
+                        "longitude": "3.02462000"
+                    },
+                    {
+                        "id": 31453,
+                        "name": "Tipasa",
+                        "latitude": "36.58972000",
+                        "longitude": "2.44750000"
+                    },
+                    {
+                        "id": 31465,
+                        "name": "Zeralda",
+                        "latitude": "36.71169000",
+                        "longitude": "2.84244000"
+                    }
+                ]
+            },
+            {
+                "id": 1133,
+                "name": "Tissemsilt Province",
+                "state_code": "38",
+                "cities": [
+                    {
+                        "id": 31370,
+                        "name": "Lardjem",
+                        "latitude": "35.74922000",
+                        "longitude": "1.54778000"
+                    },
+                    {
+                        "id": 31455,
+                        "name": "Tissemsilt",
+                        "latitude": "35.60722000",
+                        "longitude": "1.81081000"
+                    }
+                ]
+            },
+            {
+                "id": 1131,
+                "name": "Tizi Ouzou Province",
+                "state_code": "15",
+                "cities": [
+                    {
+                        "id": 31476,
+                        "name": "’Aïn el Hammam",
+                        "latitude": "36.56471000",
+                        "longitude": "4.30619000"
+                    },
+                    {
+                        "id": 31236,
+                        "name": "Arhribs",
+                        "latitude": "36.79361000",
+                        "longitude": "4.31158000"
+                    },
+                    {
+                        "id": 31238,
+                        "name": "Azazga",
+                        "latitude": "36.74472000",
+                        "longitude": "4.37222000"
+                    },
+                    {
+                        "id": 31262,
+                        "name": "Beni Douala",
+                        "latitude": "36.61954000",
+                        "longitude": "4.08282000"
+                    },
+                    {
+                        "id": 31277,
+                        "name": "Boghni",
+                        "latitude": "36.54222000",
+                        "longitude": "3.95306000"
+                    },
+                    {
+                        "id": 31285,
+                        "name": "Boudjima",
+                        "latitude": "36.80218000",
+                        "longitude": "4.15187000"
+                    },
+                    {
+                        "id": 31303,
+                        "name": "Chemini",
+                        "latitude": "36.60000000",
+                        "longitude": "4.61667000"
+                    },
+                    {
+                        "id": 31321,
+                        "name": "Draa Ben Khedda",
+                        "latitude": "36.73436000",
+                        "longitude": "3.96223000"
+                    },
+                    {
+                        "id": 31345,
+                        "name": "Freha",
+                        "latitude": "36.75234000",
+                        "longitude": "4.31550000"
+                    },
+                    {
+                        "id": 31357,
+                        "name": "Ighram",
+                        "latitude": "36.46295000",
+                        "longitude": "4.50532000"
+                    },
+                    {
+                        "id": 31371,
+                        "name": "L’Arbaa Naït Irathen",
+                        "latitude": "36.63112000",
+                        "longitude": "4.19864000"
+                    },
+                    {
+                        "id": 31380,
+                        "name": "Mekla",
+                        "latitude": "36.68178000",
+                        "longitude": "4.26378000"
+                    },
+                    {
+                        "id": 31451,
+                        "name": "Timizart",
+                        "latitude": "36.80000000",
+                        "longitude": "4.26667000"
+                    },
+                    {
+                        "id": 31454,
+                        "name": "Tirmitine",
+                        "latitude": "36.65393000",
+                        "longitude": "3.98143000"
+                    },
+                    {
+                        "id": 31457,
+                        "name": "Tizi Ouzou",
+                        "latitude": "36.71182000",
+                        "longitude": "4.04591000"
+                    },
+                    {
+                        "id": 31458,
+                        "name": "Tizi Rached",
+                        "latitude": "36.67176000",
+                        "longitude": "4.19176000"
+                    },
+                    {
+                        "id": 31459,
+                        "name": "Tizi-n-Tleta",
+                        "latitude": "36.54569000",
+                        "longitude": "4.05712000"
+                    }
+                ]
+            },
+            {
+                "id": 1107,
+                "name": "Tlemcen Province",
+                "state_code": "13",
+                "cities": [
+                    {
+                        "id": 31264,
+                        "name": "Beni Mester",
+                        "latitude": "34.87045000",
+                        "longitude": "-1.42319000"
+                    },
+                    {
+                        "id": 31266,
+                        "name": "Bensekrane",
+                        "latitude": "35.07465000",
+                        "longitude": "-1.22431000"
+                    },
+                    {
+                        "id": 31306,
+                        "name": "Chetouane",
+                        "latitude": "34.92129000",
+                        "longitude": "-1.29512000"
+                    },
+                    {
+                        "id": 31354,
+                        "name": "Hennaya",
+                        "latitude": "34.95139000",
+                        "longitude": "-1.36806000"
+                    },
+                    {
+                        "id": 31374,
+                        "name": "Mansoûra",
+                        "latitude": "34.86158000",
+                        "longitude": "-1.33935000"
+                    },
+                    {
+                        "id": 31394,
+                        "name": "Nedroma",
+                        "latitude": "35.01361000",
+                        "longitude": "-1.74799000"
+                    },
+                    {
+                        "id": 31402,
+                        "name": "Ouled Mimoun",
+                        "latitude": "34.90472000",
+                        "longitude": "-1.03394000"
+                    },
+                    {
+                        "id": 31410,
+                        "name": "Remchi",
+                        "latitude": "35.06196000",
+                        "longitude": "-1.43362000"
+                    },
+                    {
+                        "id": 31420,
+                        "name": "Sebdou",
+                        "latitude": "34.63703000",
+                        "longitude": "-1.33143000"
+                    },
+                    {
+                        "id": 31423,
+                        "name": "Sidi Abdelli",
+                        "latitude": "35.06937000",
+                        "longitude": "-1.13706000"
+                    },
+                    {
+                        "id": 31431,
+                        "name": "Sidi Senoussi سيدي سنوسي",
+                        "latitude": "34.99691000",
+                        "longitude": "-1.09449000"
+                    },
+                    {
+                        "id": 31460,
+                        "name": "Tlemcen",
+                        "latitude": "34.87833000",
+                        "longitude": "-1.31500000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "American Samoa",
+        "iso3": "ASM",
+        "iso2": "AS",
+        "phone_code": "+1-684",
+        "capital": "Pago Pago",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "tld": ".as",
+        "native": "American Samoa",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "timezones": [
+            {
+                "zoneName": "Pacific\/Pago_Pago",
+                "gmtOffset": -39600,
+                "gmtOffsetName": "UTC-11:00",
+                "abbreviation": "SST",
+                "tzName": "Samoa Standard Time"
+            }
+        ],
+        "translations": {
+            "br": "Samoa Americana",
+            "pt": "Samoa Americana",
+            "nl": "Amerikaans Samoa",
+            "hr": "Američka Samoa",
+            "fa": "ساموآی آمریکا",
+            "de": "Amerikanisch-Samoa",
+            "es": "Samoa Americana",
+            "fr": "Samoa américaines",
+            "ja": "アメリカ領サモア",
+            "it": "Samoa Americane"
+        },
+        "latitude": "-14.33333333",
+        "longitude": "-170.00000000",
+        "emoji": "🇦🇸",
+        "emojiU": "U+1F1E6 U+1F1F8",
+        "states": []
+    },
+    {
+        "id": 6,
+        "name": "Andorra",
+        "iso3": "AND",
+        "iso2": "AD",
+        "phone_code": "376",
+        "capital": "Andorra la Vella",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".ad",
+        "native": "Andorra",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "br": "Andorra",
+            "pt": "Andorra",
+            "nl": "Andorra",
+            "hr": "Andora",
+            "fa": "آندورا",
+            "de": "Andorra",
+            "es": "Andorra",
+            "fr": "Andorre",
+            "ja": "アンドラ",
+            "it": "Andorra"
+        },
+        "latitude": "42.50000000",
+        "longitude": "1.50000000",
+        "emoji": "🇦🇩",
+        "emojiU": "U+1F1E6 U+1F1E9",
+        "states": [
+            {
+                "id": 488,
+                "name": "Andorra la Vella",
+                "state_code": "07",
+                "cities": [
+                    {
+                        "id": 1,
+                        "name": "Andorra la Vella",
+                        "latitude": "42.50779000",
+                        "longitude": "1.52109000"
+                    }
+                ]
+            },
+            {
+                "id": 489,
+                "name": "Canillo",
+                "state_code": "02",
+                "cities": [
+                    {
+                        "id": 3,
+                        "name": "Canillo",
+                        "latitude": "42.56760000",
+                        "longitude": "1.59756000"
+                    },
+                    {
+                        "id": 4,
+                        "name": "El Tarter",
+                        "latitude": "42.57952000",
+                        "longitude": "1.65362000"
+                    }
+                ]
+            },
+            {
+                "id": 487,
+                "name": "Encamp",
+                "state_code": "03",
+                "cities": [
+                    {
+                        "id": 5,
+                        "name": "Encamp",
+                        "latitude": "42.53474000",
+                        "longitude": "1.58014000"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Pas de la Casa",
+                        "latitude": "42.54277000",
+                        "longitude": "1.73361000"
+                    }
+                ]
+            },
+            {
+                "id": 492,
+                "name": "Escaldes-Engordany",
+                "state_code": "08",
+                "cities": [
+                    {
+                        "id": 10,
+                        "name": "les Escaldes",
+                        "latitude": "42.50729000",
+                        "longitude": "1.53414000"
+                    }
+                ]
+            },
+            {
+                "id": 493,
+                "name": "La Massana",
+                "state_code": "04",
+                "cities": [
+                    {
+                        "id": 2,
+                        "name": "Arinsal",
+                        "latitude": "42.57205000",
+                        "longitude": "1.48453000"
+                    },
+                    {
+                        "id": 9,
+                        "name": "la Massana",
+                        "latitude": "42.54499000",
+                        "longitude": "1.51483000"
+                    }
+                ]
+            },
+            {
+                "id": 491,
+                "name": "Ordino",
+                "state_code": "05",
+                "cities": [
+                    {
+                        "id": 6,
+                        "name": "Ordino",
+                        "latitude": "42.55623000",
+                        "longitude": "1.53319000"
+                    }
+                ]
+            },
+            {
+                "id": 490,
+                "name": "Sant Julià de Lòria",
+                "state_code": "06",
+                "cities": [
+                    {
+                        "id": 8,
+                        "name": "Sant Julià de Lòria",
+                        "latitude": "42.46372000",
+                        "longitude": "1.49129000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Angola",
+        "iso3": "AGO",
+        "iso2": "AO",
+        "phone_code": "244",
+        "capital": "Luanda",
+        "currency": "AOA",
+        "currency_symbol": "Kz",
+        "tld": ".ao",
+        "native": "Angola",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        ],
+        "translations": {
+            "br": "Angola",
+            "pt": "Angola",
+            "nl": "Angola",
+            "hr": "Angola",
+            "fa": "آنگولا",
+            "de": "Angola",
+            "es": "Angola",
+            "fr": "Angola",
+            "ja": "アンゴラ",
+            "it": "Angola"
+        },
+        "latitude": "-12.50000000",
+        "longitude": "18.50000000",
+        "emoji": "🇦🇴",
+        "emojiU": "U+1F1E6 U+1F1F4",
+        "states": [
+            {
+                "id": 221,
+                "name": "Bengo Province",
+                "state_code": "BGO",
+                "cities": [
+                    {
+                        "id": 598,
+                        "name": "Caxito",
+                        "latitude": "-8.57848000",
+                        "longitude": "13.66425000"
+                    }
+                ]
+            },
+            {
+                "id": 218,
+                "name": "Benguela Province",
+                "state_code": "BGU",
+                "cities": [
+                    {
+                        "id": 590,
+                        "name": "Benguela",
+                        "latitude": "-12.57626000",
+                        "longitude": "13.40547000"
+                    },
+                    {
+                        "id": 597,
+                        "name": "Catumbela",
+                        "latitude": "-12.43002000",
+                        "longitude": "13.54677000"
+                    },
+                    {
+                        "id": 613,
+                        "name": "Lobito",
+                        "latitude": "-12.36440000",
+                        "longitude": "13.53601000"
+                    }
+                ]
+            },
+            {
+                "id": 212,
+                "name": "Bié Province",
+                "state_code": "BIE",
+                "cities": [
+                    {
+                        "id": 595,
+                        "name": "Camacupa",
+                        "latitude": "-12.01667000",
+                        "longitude": "17.48333000"
+                    },
+                    {
+                        "id": 596,
+                        "name": "Catabola",
+                        "latitude": "-12.15000000",
+                        "longitude": "17.28333000"
+                    },
+                    {
+                        "id": 605,
+                        "name": "Chissamba",
+                        "latitude": "-12.16667000",
+                        "longitude": "17.33333000"
+                    },
+                    {
+                        "id": 606,
+                        "name": "Cuito",
+                        "latitude": "-12.38333000",
+                        "longitude": "16.93333000"
+                    }
+                ]
+            },
+            {
+                "id": 228,
+                "name": "Cabinda Province",
+                "state_code": "CAB",
+                "cities": [
+                    {
+                        "id": 591,
+                        "name": "Cabinda",
+                        "latitude": "-5.55000000",
+                        "longitude": "12.20000000"
+                    }
+                ]
+            },
+            {
+                "id": 226,
+                "name": "Cuando Cubango Province",
+                "state_code": "CCU",
+                "cities": [
+                    {
+                        "id": 625,
+                        "name": "Menongue",
+                        "latitude": "-14.65850000",
+                        "longitude": "17.69099000"
+                    }
+                ]
+            },
+            {
+                "id": 217,
+                "name": "Cuanza Norte Province",
+                "state_code": "CNO",
+                "cities": [
+                    {
+                        "id": 594,
+                        "name": "Camabatela",
+                        "latitude": "-8.18812000",
+                        "longitude": "15.37495000"
+                    },
+                    {
+                        "id": 627,
+                        "name": "N’dalatando",
+                        "latitude": "-9.29782000",
+                        "longitude": "14.91162000"
+                    }
+                ]
+            },
+            {
+                "id": 216,
+                "name": "Cuanza Sul",
+                "state_code": "CUS",
+                "cities": [
+                    {
+                        "id": 629,
+                        "name": "Quibala",
+                        "latitude": "-10.73366000",
+                        "longitude": "14.97995000"
+                    },
+                    {
+                        "id": 634,
+                        "name": "Sumbe",
+                        "latitude": "-11.20605000",
+                        "longitude": "13.84371000"
+                    },
+                    {
+                        "id": 635,
+                        "name": "Uacu Cungo",
+                        "latitude": "-11.35669000",
+                        "longitude": "15.11719000"
+                    }
+                ]
+            },
+            {
+                "id": 215,
+                "name": "Cunene Province",
+                "state_code": "CNN",
+                "cities": [
+                    {
+                        "id": 628,
+                        "name": "Ondjiva",
+                        "latitude": "-17.06667000",
+                        "longitude": "15.73333000"
+                    }
+                ]
+            },
+            {
+                "id": 213,
+                "name": "Huambo Province",
+                "state_code": "HUA",
+                "cities": [
+                    {
+                        "id": 600,
+                        "name": "Caála",
+                        "latitude": "-12.85250000",
+                        "longitude": "15.56056000"
+                    },
+                    {
+                        "id": 601,
+                        "name": "Chela",
+                        "latitude": "-12.30261000",
+                        "longitude": "15.43358000"
+                    },
+                    {
+                        "id": 609,
+                        "name": "Huambo",
+                        "latitude": "-12.77611000",
+                        "longitude": "15.73917000"
+                    },
+                    {
+                        "id": 614,
+                        "name": "Longonjo",
+                        "latitude": "-12.90667000",
+                        "longitude": "15.25333000"
+                    }
+                ]
+            },
+            {
+                "id": 225,
+                "name": "Huíla Province",
+                "state_code": "HUI",
+                "cities": [
+                    {
+                        "id": 592,
+                        "name": "Caconda",
+                        "latitude": "-13.73333000",
+                        "longitude": "15.06667000"
+                    },
+                    {
+                        "id": 593,
+                        "name": "Caluquembe",
+                        "latitude": "-13.92093000",
+                        "longitude": "14.53476000"
+                    },
+                    {
+                        "id": 602,
+                        "name": "Chibia",
+                        "latitude": "-15.23657000",
+                        "longitude": "13.88468000"
+                    },
+                    {
+                        "id": 603,
+                        "name": "Chicomba",
+                        "latitude": "-14.30788000",
+                        "longitude": "14.98672000"
+                    },
+                    {
+                        "id": 604,
+                        "name": "Chipindo",
+                        "latitude": "-13.86830000",
+                        "longitude": "15.73277000"
+                    },
+                    {
+                        "id": 607,
+                        "name": "Cuvango",
+                        "latitude": "-14.27693000",
+                        "longitude": "16.31475000"
+                    },
+                    {
+                        "id": 608,
+                        "name": "Gambos",
+                        "latitude": "-15.80926000",
+                        "longitude": "14.07661000"
+                    },
+                    {
+                        "id": 610,
+                        "name": "Humpata",
+                        "latitude": "-15.07250000",
+                        "longitude": "13.36771000"
+                    },
+                    {
+                        "id": 612,
+                        "name": "Jamba",
+                        "latitude": "-14.76294000",
+                        "longitude": "15.83493000"
+                    },
+                    {
+                        "id": 617,
+                        "name": "Lubango",
+                        "latitude": "-14.91717000",
+                        "longitude": "13.49250000"
+                    },
+                    {
+                        "id": 623,
+                        "name": "Matala",
+                        "latitude": "-15.23967000",
+                        "longitude": "15.17246000"
+                    },
+                    {
+                        "id": 630,
+                        "name": "Quilengues",
+                        "latitude": "-13.99213000",
+                        "longitude": "13.76705000"
+                    },
+                    {
+                        "id": 631,
+                        "name": "Quipungo",
+                        "latitude": "-15.12203000",
+                        "longitude": "14.55953000"
+                    }
+                ]
+            },
+            {
+                "id": 222,
+                "name": "Luanda Province",
+                "state_code": "LUA",
+                "cities": [
+                    {
+                        "id": 589,
+                        "name": "Belas",
+                        "latitude": "-9.06875000",
+                        "longitude": "13.16072000"
+                    },
+                    {
+                        "id": 611,
+                        "name": "Icolo e Bengo",
+                        "latitude": "-9.24191000",
+                        "longitude": "13.73549000"
+                    },
+                    {
+                        "id": 615,
+                        "name": "Luanda",
+                        "latitude": "-8.83682000",
+                        "longitude": "13.23432000"
+                    }
+                ]
+            },
+            {
+                "id": 223,
+                "name": "Lunda Norte Province",
+                "state_code": "LNO",
+                "cities": [
+                    {
+                        "id": 618,
+                        "name": "Lucapa",
+                        "latitude": "-8.68337000",
+                        "longitude": "20.27045000"
+                    }
+                ]
+            },
+            {
+                "id": 220,
+                "name": "Lunda Sul Province",
+                "state_code": "LSU",
+                "cities": [
+                    {
+                        "id": 599,
+                        "name": "Cazaji",
+                        "latitude": "-11.06715000",
+                        "longitude": "20.70148000"
+                    },
+                    {
+                        "id": 632,
+                        "name": "Saurimo",
+                        "latitude": "-9.66078000",
+                        "longitude": "20.39155000"
+                    }
+                ]
+            },
+            {
+                "id": 227,
+                "name": "Malanje Province",
+                "state_code": "MAL",
+                "cities": [
+                    {
+                        "id": 622,
+                        "name": "Malanje",
+                        "latitude": "-9.54015000",
+                        "longitude": "16.34096000"
+                    }
+                ]
+            },
+            {
+                "id": 219,
+                "name": "Moxico Province",
+                "state_code": "MOX",
+                "cities": [
+                    {
+                        "id": 621,
+                        "name": "Léua",
+                        "latitude": "-11.65000000",
+                        "longitude": "20.45000000"
+                    },
+                    {
+                        "id": 616,
+                        "name": "Luau",
+                        "latitude": "-10.70727000",
+                        "longitude": "22.22466000"
+                    },
+                    {
+                        "id": 619,
+                        "name": "Luena",
+                        "latitude": "-11.78333000",
+                        "longitude": "19.91667000"
+                    },
+                    {
+                        "id": 620,
+                        "name": "Lumeje",
+                        "latitude": "-11.55000000",
+                        "longitude": "20.78333000"
+                    }
+                ]
+            },
+            {
+                "id": 224,
+                "name": "Uíge Province",
+                "state_code": "UIG",
+                "cities": [
+                    {
+                        "id": 636,
+                        "name": "Uíge",
+                        "latitude": "-7.60874000",
+                        "longitude": "15.06131000"
+                    }
+                ]
+            },
+            {
+                "id": 214,
+                "name": "Zaire Province",
+                "state_code": "ZAI",
+                "cities": [
+                    {
+                        "id": 624,
+                        "name": "Mbanza Congo",
+                        "latitude": "-6.26703000",
+                        "longitude": "14.24010000"
+                    },
+                    {
+                        "id": 626,
+                        "name": "N'zeto",
+                        "latitude": "-7.23116000",
+                        "longitude": "12.86660000"
+                    },
+                    {
+                        "id": 633,
+                        "name": "Soio",
+                        "latitude": "-6.13490000",
+                        "longitude": "12.36894000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Anguilla",
+        "iso3": "AIA",
+        "iso2": "AI",
+        "phone_code": "+1-264",
+        "capital": "The Valley",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "tld": ".ai",
+        "native": "Anguilla",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            {
+                "zoneName": "America\/Anguilla",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        ],
+        "translations": {
+            "br": "Anguila",
+            "pt": "Anguila",
+            "nl": "Anguilla",
+            "hr": "Angvila",
+            "fa": "آنگویلا",
+            "de": "Anguilla",
+            "es": "Anguilla",
+            "fr": "Anguilla",
+            "ja": "アンギラ",
+            "it": "Anguilla"
+        },
+        "latitude": "18.25000000",
+        "longitude": "-63.16666666",
+        "emoji": "🇦🇮",
+        "emojiU": "U+1F1E6 U+1F1EE",
+        "states": []
+    },
+    {
+        "id": 9,
+        "name": "Antarctica",
+        "iso3": "ATA",
+        "iso2": "AQ",
+        "phone_code": "",
+        "capital": "",
+        "currency": "",
+        "currency_symbol": "$",
+        "tld": ".aq",
+        "native": "Antarctica",
+        "region": "Polar",
+        "subregion": "",
+        "timezones": [
+            {
+                "zoneName": "Antarctica\/Casey",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "AWST",
+                "tzName": "Australian Western Standard Time"
+            },
+            {
+                "zoneName": "Antarctica\/Davis",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "DAVT",
+                "tzName": "Davis Time"
+            },
+            {
+                "zoneName": "Antarctica\/DumontDUrville",
+                "gmtOffset": 36000,
+                "gmtOffsetName": "UTC+10:00",
+                "abbreviation": "DDUT",
+                "tzName": "Dumont d'Urville Time"
+            },
+            {
+                "zoneName": "Antarctica\/Mawson",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "MAWT",
+                "tzName": "Mawson Station Time"
+            },
+            {
+                "zoneName": "Antarctica\/McMurdo",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "NZDT",
+                "tzName": "New Zealand Daylight Time"
+            },
+            {
+                "zoneName": "Antarctica\/Palmer",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "CLST",
+                "tzName": "Chile Summer Time"
+            },
+            {
+                "zoneName": "Antarctica\/Rothera",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ROTT",
+                "tzName": "Rothera Research Station Time"
+            },
+            {
+                "zoneName": "Antarctica\/Syowa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "SYOT",
+                "tzName": "Showa Station Time"
+            },
+            {
+                "zoneName": "Antarctica\/Troll",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            },
+            {
+                "zoneName": "Antarctica\/Vostok",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "VOST",
+                "tzName": "Vostok Station Time"
+            }
+        ],
+        "translations": {
+            "br": "Antártida",
+            "pt": "Antárctida",
+            "nl": "Antarctica",
+            "hr": "Antarktika",
+            "fa": "جنوبگان",
+            "de": "Antarktika",
+            "es": "Antártida",
+            "fr": "Antarctique",
+            "ja": "南極大陸",
+            "it": "Antartide"
+        },
+        "latitude": "-74.65000000",
+        "longitude": "4.48000000",
+        "emoji": "🇦🇶",
+        "emojiU": "U+1F1E6 U+1F1F6",
+        "states": []
+    },
+    {
+        "id": 10,
+        "name": "Antigua And Barbuda",
+        "iso3": "ATG",
+        "iso2": "AG",
+        "phone_code": "+1-268",
+        "capital": "St. John's",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "tld": ".ag",
+        "native": "Antigua and Barbuda",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "timezones": [
+            {
+                "zoneName": "America\/Antigua",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        ],
+        "translations": {
+            "br": "Antígua e Barbuda",
+            "pt": "Antígua e Barbuda",
+            "nl": "Antigua en Barbuda",
+            "hr": "Antigva i Barbuda",
+            "fa": "آنتیگوا و باربودا",
+            "de": "Antigua und Barbuda",
+            "es": "Antigua y Barbuda",
+            "fr": "Antigua-et-Barbuda",
+            "ja": "アンティグア・バーブーダ",
+            "it": "Antigua e Barbuda"
+        },
+        "latitude": "17.05000000",
+        "longitude": "-61.80000000",
+        "emoji": "🇦🇬",
+        "emojiU": "U+1F1E6 U+1F1EC",
+        "states": [
+            {
+                "id": 3708,
+                "name": "Barbuda",
+                "state_code": "10",
+                "cities": [
+                    {
+                        "id": 144,
+                        "name": "Codrington",
+                        "latitude": "17.63333000",
+                        "longitude": "-61.83333000"
+                    }
+                ]
+            },
+            {
+                "id": 3703,
+                "name": "Redonda",
+                "state_code": "11",
+                "cities": []
+            },
+            {
+                "id": 3709,
+                "name": "Saint George Parish",
+                "state_code": "03",
+                "cities": [
+                    {
+                        "id": 148,
+                        "name": "Piggotts",
+                        "latitude": "17.11667000",
+                        "longitude": "-61.80000000"
+                    }
+                ]
+            },
+            {
+                "id": 3706,
+                "name": "Saint John Parish",
+                "state_code": "04",
+                "cities": [
+                    {
+                        "id": 149,
+                        "name": "Potters Village",
+                        "latitude": "17.11337000",
+                        "longitude": "-61.81962000"
+                    },
+                    {
+                        "id": 150,
+                        "name": "Saint John’s",
+                        "latitude": "17.12096000",
+                        "longitude": "-61.84329000"
+                    }
+                ]
+            },
+            {
+                "id": 3707,
+                "name": "Saint Mary Parish",
+                "state_code": "05",
+                "cities": [
+                    {
+                        "id": 143,
+                        "name": "Bolands",
+                        "latitude": "17.06565000",
+                        "longitude": "-61.87466000"
+                    }
+                ]
+            },
+            {
+                "id": 3705,
+                "name": "Saint Paul Parish",
+                "state_code": "06",
+                "cities": [
+                    {
+                        "id": 145,
+                        "name": "Falmouth",
+                        "latitude": "17.02741000",
+                        "longitude": "-61.78136000"
+                    },
+                    {
+                        "id": 146,
+                        "name": "Liberta",
+                        "latitude": "17.04141000",
+                        "longitude": "-61.79052000"
+                    }
+                ]
+            },
+            {
+                "id": 3704,
+                "name": "Saint Peter Parish",
+                "state_code": "07",
+                "cities": [
+                    {
+                        "id": 142,
+                        "name": "All Saints",
+                        "latitude": "17.06671000",
+                        "longitude": "-61.79303000"
+                    },
+                    {
+                        "id": 147,
+                        "name": "Parham",
+                        "latitude": "17.09682000",
+                        "longitude": "-61.77046000"
+                    }
+                ]
+            },
+            {
+                "id": 3710,
+                "name": "Saint Philip Parish",
+                "state_code": "08",
+                "cities": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Argentina",
+        "iso3": "ARG",
+        "iso2": "AR",
+        "phone_code": "54",
+        "capital": "Buenos Aires",
+        "currency": "ARS",
+        "currency_symbol": "$",
+        "tld": ".ar",
+        "native": "Argentina",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Argentina\/Buenos_Aires",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Catamarca",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Cordoba",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Jujuy",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/La_Rioja",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Mendoza",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Rio_Gallegos",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Salta",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/San_Juan",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/San_Luis",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Tucuman",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Ushuaia",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            }
+        ],
+        "translations": {
+            "br": "Argentina",
+            "pt": "Argentina",
+            "nl": "Argentinië",
+            "hr": "Argentina",
+            "fa": "آرژانتین",
+            "de": "Argentinien",
+            "es": "Argentina",
+            "fr": "Argentine",
+            "ja": "アルゼンチン",
+            "it": "Argentina"
+        },
+        "latitude": "-34.00000000",
+        "longitude": "-64.00000000",
+        "emoji": "🇦🇷",
+        "emojiU": "U+1F1E6 U+1F1F7",
+        "states": [
+            {
+                "id": 4880,
+                "name": "Autonomous City Of Buenos Aires",
+                "state_code": "C",
+                "cities": []
+            },
+            {
+                "id": 3656,
+                "name": "Buenos Aires Province",
+                "state_code": "B",
+                "cities": [
+                    {
+                        "id": 682,
+                        "name": "Balvanera",
+                        "latitude": "-34.61032000",
+                        "longitude": "-58.39766000"
+                    },
+                    {
+                        "id": 683,
+                        "name": "Barracas",
+                        "latitude": "-34.64966000",
+                        "longitude": "-58.38341000"
+                    },
+                    {
+                        "id": 687,
+                        "name": "Belgrano",
+                        "latitude": "-34.56270000",
+                        "longitude": "-58.45829000"
+                    },
+                    {
+                        "id": 697,
+                        "name": "Boedo",
+                        "latitude": "-34.63333000",
+                        "longitude": "-58.41667000"
+                    },
+                    {
+                        "id": 704,
+                        "name": "Buenos Aires",
+                        "latitude": "-34.61315000",
+                        "longitude": "-58.37723000"
+                    },
+                    {
+                        "id": 773,
+                        "name": "Colegiales",
+                        "latitude": "-34.57365000",
+                        "longitude": "-58.44924000"
+                    },
+                    {
+                        "id": 1380,
+                        "name": "Retiro",
+                        "latitude": "-34.58333000",
+                        "longitude": "-58.38333000"
+                    },
+                    {
+                        "id": 1561,
+                        "name": "Villa Lugano",
+                        "latitude": "-34.67907000",
+                        "longitude": "-58.47263000"
+                    },
+                    {
+                        "id": 1570,
+                        "name": "Villa Ortúzar",
+                        "latitude": "-34.57973000",
+                        "longitude": "-58.46829000"
+                    },
+                    {
+                        "id": 1576,
+                        "name": "Villa Santa Rita",
+                        "latitude": "-34.61082000",
+                        "longitude": "-58.48100000"
+                    }
+                ]
+            },
+            {
+                "id": 3647,
+                "name": "Catamarca Province",
+                "state_code": "K",
+                "cities": [
+                    {
+                        "id": 659,
+                        "name": "Ancasti",
+                        "latitude": "-28.81247000",
+                        "longitude": "-65.50145000"
+                    },
+                    {
+                        "id": 661,
+                        "name": "Andalgalá",
+                        "latitude": "-27.58185000",
+                        "longitude": "-66.31626000"
+                    },
+                    {
+                        "id": 663,
+                        "name": "Antofagasta de la Sierra",
+                        "latitude": "-26.05940000",
+                        "longitude": "-67.40636000"
+                    },
+                    {
+                        "id": 726,
+                        "name": "Capayán",
+                        "latitude": "-28.77436000",
+                        "longitude": "-66.04749000"
+                    },
+                    {
+                        "id": 824,
+                        "name": "Departamento de Ambato",
+                        "latitude": "-28.00000000",
+                        "longitude": "-65.91667000"
+                    },
+                    {
+                        "id": 825,
+                        "name": "Departamento de Ancasti",
+                        "latitude": "-29.00000000",
+                        "longitude": "-65.50000000"
+                    },
+                    {
+                        "id": 826,
+                        "name": "Departamento de Andalgalá",
+                        "latitude": "-27.58333000",
+                        "longitude": "-66.46667000"
+                    },
+                    {
+                        "id": 829,
+                        "name": "Departamento de Antofagasta de la Sierra",
+                        "latitude": "-26.00000000",
+                        "longitude": "-67.58333000"
+                    },
+                    {
+                        "id": 846,
+                        "name": "Departamento de Capayán",
+                        "latitude": "-28.83333000",
+                        "longitude": "-66.00000000"
+                    },
+                    {
+                        "id": 849,
+                        "name": "Departamento de Capital",
+                        "latitude": "-28.41667000",
+                        "longitude": "-65.80000000"
+                    },
+                    {
+                        "id": 877,
+                        "name": "Departamento de El Alto",
+                        "latitude": "-28.41667000",
+                        "longitude": "-65.41667000"
+                    },
+                    {
+                        "id": 884,
+                        "name": "Departamento de Fray Mamerto Esquiú",
+                        "latitude": "-28.30000000",
+                        "longitude": "-65.75000000"
+                    },
+                    {
+                        "id": 918,
+                        "name": "Departamento de La Paz",
+                        "latitude": "-29.25000000",
+                        "longitude": "-65.25000000"
+                    },
+                    {
+                        "id": 959,
+                        "name": "Departamento de Pomán",
+                        "latitude": "-28.25000000",
+                        "longitude": "-66.41667000"
+                    },
+                    {
+                        "id": 1006,
+                        "name": "Departamento de Santa María",
+                        "latitude": "-26.66667000",
+                        "longitude": "-66.41667000"
+                    },
+                    {
+                        "id": 1007,
+                        "name": "Departamento de Santa Rosa",
+                        "latitude": "-28.08333000",
+                        "longitude": "-65.25000000"
+                    },
+                    {
+                        "id": 1020,
+                        "name": "Departamento de Tinogasta",
+                        "latitude": "-27.50000000",
+                        "longitude": "-68.00000000"
+                    },
+                    {
+                        "id": 1030,
+                        "name": "Departamento de Valle Viejo",
+                        "latitude": "-28.58333000",
+                        "longitude": "-65.75000000"
+                    },
+                    {
+                        "id": 1060,
+                        "name": "El Rodeo",
+                        "latitude": "-28.21518000",
+                        "longitude": "-65.87420000"
+                    },
+                    {
+                        "id": 1078,
+                        "name": "Fiambalá",
+                        "latitude": "-27.67225000",
+                        "longitude": "-67.61870000"
+                    },
+                    {
+                        "id": 1142,
+                        "name": "Hualfín",
+                        "latitude": "-27.22896000",
+                        "longitude": "-66.83131000"
+                    },
+                    {
+                        "id": 1145,
+                        "name": "Huillapima",
+                        "latitude": "-28.72533000",
+                        "longitude": "-65.97870000"
+                    },
+                    {
+                        "id": 1149,
+                        "name": "Icaño",
+                        "latitude": "-28.91934000",
+                        "longitude": "-65.32817000"
+                    },
+                    {
+                        "id": 1197,
+                        "name": "La Puerta de San José",
+                        "latitude": "-27.55000000",
+                        "longitude": "-67.01667000"
+                    },
+                    {
+                        "id": 1239,
+                        "name": "Londres",
+                        "latitude": "-27.71439000",
+                        "longitude": "-67.13349000"
+                    },
+                    {
+                        "id": 1243,
+                        "name": "Los Altos",
+                        "latitude": "-28.04845000",
+                        "longitude": "-65.49945000"
+                    },
+                    {
+                        "id": 1256,
+                        "name": "Los Varela",
+                        "latitude": "-27.93003000",
+                        "longitude": "-65.87153000"
+                    },
+                    {
+                        "id": 1294,
+                        "name": "Mutquín",
+                        "latitude": "-28.32104000",
+                        "longitude": "-66.14253000"
+                    },
+                    {
+                        "id": 1340,
+                        "name": "Pomán",
+                        "latitude": "-28.39455000",
+                        "longitude": "-66.22052000"
+                    },
+                    {
+                        "id": 1350,
+                        "name": "Puerta de Corral Quemado",
+                        "latitude": "-27.23000000",
+                        "longitude": "-66.93635000"
+                    },
+                    {
+                        "id": 1378,
+                        "name": "Recreo",
+                        "latitude": "-29.28184000",
+                        "longitude": "-65.06096000"
+                    },
+                    {
+                        "id": 1408,
+                        "name": "San Antonio",
+                        "latitude": "-28.01009000",
+                        "longitude": "-65.70874000"
+                    },
+                    {
+                        "id": 1421,
+                        "name": "San Fernando del Valle de Catamarca",
+                        "latitude": "-28.46957000",
+                        "longitude": "-65.78524000"
+                    },
+                    {
+                        "id": 1464,
+                        "name": "Santa María",
+                        "latitude": "-26.69547000",
+                        "longitude": "-66.04732000"
+                    },
+                    {
+                        "id": 1505,
+                        "name": "Tinogasta",
+                        "latitude": "-28.06319000",
+                        "longitude": "-67.56488000"
+                    }
+                ]
+            },
+            {
+                "id": 3640,
+                "name": "Chaco Province",
+                "state_code": "H",
+                "cities": [
+                    {
+                        "id": 677,
+                        "name": "Aviá Terai",
+                        "latitude": "-26.68532000",
+                        "longitude": "-60.72920000"
+                    },
+                    {
+                        "id": 685,
+                        "name": "Barranqueras",
+                        "latitude": "-27.48132000",
+                        "longitude": "-58.93925000"
+                    },
+                    {
+                        "id": 686,
+                        "name": "Basail",
+                        "latitude": "-27.88539000",
+                        "longitude": "-59.28245000"
+                    },
+                    {
+                        "id": 719,
+                        "name": "Campo Largo",
+                        "latitude": "-26.80077000",
+                        "longitude": "-60.84215000"
+                    },
+                    {
+                        "id": 730,
+                        "name": "Capitán Solari",
+                        "latitude": "-26.80215000",
+                        "longitude": "-59.56089000"
+                    },
+                    {
+                        "id": 737,
+                        "name": "Castelli",
+                        "latitude": "-25.94679000",
+                        "longitude": "-60.61947000"
+                    },
+                    {
+                        "id": 753,
+                        "name": "Charadai",
+                        "latitude": "-27.65503000",
+                        "longitude": "-59.86291000"
+                    },
+                    {
+                        "id": 754,
+                        "name": "Charata",
+                        "latitude": "-27.21438000",
+                        "longitude": "-61.18795000"
+                    },
+                    {
+                        "id": 765,
+                        "name": "Chorotis",
+                        "latitude": "-27.91578000",
+                        "longitude": "-61.39982000"
+                    },
+                    {
+                        "id": 767,
+                        "name": "Ciervo Petiso",
+                        "latitude": "-26.58041000",
+                        "longitude": "-59.63094000"
+                    },
+                    {
+                        "id": 776,
+                        "name": "Colonia Benítez",
+                        "latitude": "-27.33099000",
+                        "longitude": "-58.94622000"
+                    },
+                    {
+                        "id": 778,
+                        "name": "Colonia Elisa",
+                        "latitude": "-26.93041000",
+                        "longitude": "-59.51861000"
+                    },
+                    {
+                        "id": 782,
+                        "name": "Colonias Unidas",
+                        "latitude": "-26.69825000",
+                        "longitude": "-59.63154000"
+                    },
+                    {
+                        "id": 791,
+                        "name": "Concepción del Bermejo",
+                        "latitude": "-26.59926000",
+                        "longitude": "-60.94617000"
+                    },
+                    {
+                        "id": 799,
+                        "name": "Coronel Du Graty",
+                        "latitude": "-27.68038000",
+                        "longitude": "-60.91462000"
+                    },
+                    {
+                        "id": 804,
+                        "name": "Corzuela",
+                        "latitude": "-26.95374000",
+                        "longitude": "-60.96928000"
+                    },
+                    {
+                        "id": 807,
+                        "name": "Coté-Lai",
+                        "latitude": "-27.50000000",
+                        "longitude": "-59.60000000"
+                    },
+                    {
+                        "id": 822,
+                        "name": "Departamento de Almirante Brown",
+                        "latitude": "-25.81662000",
+                        "longitude": "-61.45576000"
+                    },
+                    {
+                        "id": 837,
+                        "name": "Departamento de Bermejo",
+                        "latitude": "-27.00000000",
+                        "longitude": "-58.66667000"
+                    },
+                    {
+                        "id": 865,
+                        "name": "Departamento de Comandante Fernández",
+                        "latitude": "-26.83333000",
+                        "longitude": "-60.50000000"
+                    },
+                    {
+                        "id": 875,
+                        "name": "Departamento de Doce de Octubre",
+                        "latitude": "-27.41667000",
+                        "longitude": "-61.33333000"
+                    },
+                    {
+                        "id": 876,
+                        "name": "Departamento de Dos de Abril",
+                        "latitude": "-27.60932000",
+                        "longitude": "-61.34473000"
+                    },
+                    {
+                        "id": 890,
+                        "name": "Departamento de General Donovan",
+                        "latitude": "-27.16667000",
+                        "longitude": "-59.33333000"
+                    },
+                    {
+                        "id": 892,
+                        "name": "Departamento de General Güemes",
+                        "latitude": "-25.16667000",
+                        "longitude": "-61.41667000"
+                    },
+                    {
+                        "id": 909,
+                        "name": "Departamento de Independencia",
+                        "latitude": "-26.66667000",
+                        "longitude": "-60.66667000"
+                    },
+                    {
+                        "id": 928,
+                        "name": "Departamento de Libertad",
+                        "latitude": "-27.33333000",
+                        "longitude": "-59.33333000"
+                    },
+                    {
+                        "id": 937,
+                        "name": "Departamento de Maipú",
+                        "latitude": "-26.33333000",
+                        "longitude": "-60.41667000"
+                    },
+                    {
+                        "id": 950,
+                        "name": "Departamento de Nueve de Julio",
+                        "latitude": "-26.95331000",
+                        "longitude": "-61.27627000"
+                    },
+                    {
+                        "id": 954,
+                        "name": "Departamento de O’Higgins",
+                        "latitude": "-27.25000000",
+                        "longitude": "-60.66667000"
+                    },
+                    {
+                        "id": 960,
+                        "name": "Departamento de Presidencia de la Plaza",
+                        "latitude": "-27.00000000",
+                        "longitude": "-59.75000000"
+                    },
+                    {
+                        "id": 962,
+                        "name": "Departamento de Quitilipi",
+                        "latitude": "-26.66667000",
+                        "longitude": "-60.16667000"
+                    },
+                    {
+                        "id": 986,
+                        "name": "Departamento de San Fernando",
+                        "latitude": "-27.66667000",
+                        "longitude": "-59.16667000"
+                    },
+                    {
+                        "id": 994,
+                        "name": "Departamento de San Lorenzo",
+                        "latitude": "-27.33333000",
+                        "longitude": "-60.41667000"
+                    },
+                    {
+                        "id": 1010,
+                        "name": "Departamento de Sargento Cabral",
+                        "latitude": "-26.83333000",
+                        "longitude": "-59.50000000"
+                    },
+                    {
+                        "id": 1017,
+                        "name": "Departamento de Tapenagá",
+                        "latitude": "-27.50000000",
+                        "longitude": "-59.75000000"
+                    },
+                    {
+                        "id": 1081,
+                        "name": "Fontana",
+                        "latitude": "-27.41813000",
+                        "longitude": "-59.02392000"
+                    },
+                    {
+                        "id": 1088,
+                        "name": "Gancedo",
+                        "latitude": "-27.49038000",
+                        "longitude": "-61.67571000"
+                    },
+                    {
+                        "id": 1105,
+                        "name": "General José de San Martín",
+                        "latitude": "-26.53743000",
+                        "longitude": "-59.34158000"
+                    },
+                    {
+                        "id": 1109,
+                        "name": "General Pinedo",
+                        "latitude": "-27.31667000",
+                        "longitude": "-61.28333000"
+                    },
+                    {
+                        "id": 1114,
+                        "name": "General Vedia",
+                        "latitude": "-26.93382000",
+                        "longitude": "-58.66040000"
+                    },
+                    {
+                        "id": 1135,
+                        "name": "Hermoso Campo",
+                        "latitude": "-27.60816000",
+                        "longitude": "-61.34441000"
+                    },
+                    {
+                        "id": 1181,
+                        "name": "La Clotilde",
+                        "latitude": "-27.13333000",
+                        "longitude": "-60.66667000"
+                    },
+                    {
+                        "id": 1186,
+                        "name": "La Eduvigis",
+                        "latitude": "-26.83607000",
+                        "longitude": "-59.06211000"
+                    },
+                    {
+                        "id": 1187,
+                        "name": "La Escondida",
+                        "latitude": "-27.10724000",
+                        "longitude": "-59.44784000"
+                    },
+                    {
+                        "id": 1191,
+                        "name": "La Leonesa",
+                        "latitude": "-27.03786000",
+                        "longitude": "-58.70347000"
+                    },
+                    {
+                        "id": 1201,
+                        "name": "La Tigra",
+                        "latitude": "-27.10996000",
+                        "longitude": "-60.58719000"
+                    },
+                    {
+                        "id": 1203,
+                        "name": "La Verde",
+                        "latitude": "-27.12634000",
+                        "longitude": "-59.37352000"
+                    },
+                    {
+                        "id": 1208,
+                        "name": "Laguna Limpia",
+                        "latitude": "-26.49565000",
+                        "longitude": "-59.68083000"
+                    },
+                    {
+                        "id": 1213,
+                        "name": "Lapachito",
+                        "latitude": "-27.15997000",
+                        "longitude": "-59.38605000"
+                    },
+                    {
+                        "id": 1216,
+                        "name": "Las Breñas",
+                        "latitude": "-27.08966000",
+                        "longitude": "-61.08161000"
+                    },
+                    {
+                        "id": 1218,
+                        "name": "Las Garcitas",
+                        "latitude": "-26.61802000",
+                        "longitude": "-59.80135000"
+                    },
+                    {
+                        "id": 1249,
+                        "name": "Los Frentones",
+                        "latitude": "-26.40770000",
+                        "longitude": "-61.41367000"
+                    },
+                    {
+                        "id": 1260,
+                        "name": "Machagai",
+                        "latitude": "-26.92614000",
+                        "longitude": "-60.04955000"
+                    },
+                    {
+                        "id": 1264,
+                        "name": "Makallé",
+                        "latitude": "-27.20687000",
+                        "longitude": "-59.28696000"
+                    },
+                    {
+                        "id": 1270,
+                        "name": "Margarita Belén",
+                        "latitude": "-27.26160000",
+                        "longitude": "-58.97219000"
+                    },
+                    {
+                        "id": 1296,
+                        "name": "Napenay",
+                        "latitude": "-26.73333000",
+                        "longitude": "-60.61667000"
+                    },
+                    {
+                        "id": 1314,
+                        "name": "Pampa Almirón",
+                        "latitude": "-26.70039000",
+                        "longitude": "-59.12331000"
+                    },
+                    {
+                        "id": 1316,
+                        "name": "Pampa del Indio",
+                        "latitude": "-26.04982000",
+                        "longitude": "-59.93728000"
+                    },
+                    {
+                        "id": 1317,
+                        "name": "Pampa del Infierno",
+                        "latitude": "-26.50517000",
+                        "longitude": "-61.17436000"
+                    },
+                    {
+                        "id": 1347,
+                        "name": "Presidencia de la Plaza",
+                        "latitude": "-27.00147000",
+                        "longitude": "-59.84243000"
+                    },
+                    {
+                        "id": 1345,
+                        "name": "Presidencia Roca",
+                        "latitude": "-26.14090000",
+                        "longitude": "-59.59541000"
+                    },
+                    {
+                        "id": 1346,
+                        "name": "Presidencia Roque Sáenz Peña",
+                        "latitude": "-26.78522000",
+                        "longitude": "-60.43876000"
+                    },
+                    {
+                        "id": 1351,
+                        "name": "Puerto Bermejo",
+                        "latitude": "-26.92739000",
+                        "longitude": "-58.50917000"
+                    },
+                    {
+                        "id": 1363,
+                        "name": "Puerto Tirol",
+                        "latitude": "-27.37218000",
+                        "longitude": "-59.08206000"
+                    },
+                    {
+                        "id": 1364,
+                        "name": "Puerto Vilelas",
+                        "latitude": "-27.51414000",
+                        "longitude": "-58.93906000"
+                    },
+                    {
+                        "id": 1370,
+                        "name": "Quitilipi",
+                        "latitude": "-26.86913000",
+                        "longitude": "-60.21683000"
+                    },
+                    {
+                        "id": 1379,
+                        "name": "Resistencia",
+                        "latitude": "-27.46056000",
+                        "longitude": "-58.98389000"
+                    },
+                    {
+                        "id": 1405,
+                        "name": "Samuhú",
+                        "latitude": "-27.52116000",
+                        "longitude": "-60.39167000"
+                    },
+                    {
+                        "id": 1414,
+                        "name": "San Bernardo",
+                        "latitude": "-27.28782000",
+                        "longitude": "-60.71252000"
+                    },
+                    {
+                        "id": 1471,
+                        "name": "Santa Sylvina",
+                        "latitude": "-27.83261000",
+                        "longitude": "-61.13747000"
+                    },
+                    {
+                        "id": 1493,
+                        "name": "Taco Pozo",
+                        "latitude": "-25.61557000",
+                        "longitude": "-63.26708000"
+                    },
+                    {
+                        "id": 1515,
+                        "name": "Tres Isletas",
+                        "latitude": "-26.34067000",
+                        "longitude": "-60.43207000"
+                    },
+                    {
+                        "id": 1586,
+                        "name": "Villa Ángela",
+                        "latitude": "-27.57383000",
+                        "longitude": "-60.71526000"
+                    },
+                    {
+                        "id": 1542,
+                        "name": "Villa Berthet",
+                        "latitude": "-27.29174000",
+                        "longitude": "-60.41263000"
+                    }
+                ]
+            },
+            {
+                "id": 3651,
+                "name": "Chubut Province",
+                "state_code": "U",
+                "cities": [
+                    {
+                        "id": 655,
+                        "name": "Alto Río Senguer",
+                        "latitude": "-45.04105000",
+                        "longitude": "-70.81982000"
+                    },
+                    {
+                        "id": 715,
+                        "name": "Camarones",
+                        "latitude": "-44.79709000",
+                        "longitude": "-65.70994000"
+                    },
+                    {
+                        "id": 787,
+                        "name": "Comodoro Rivadavia",
+                        "latitude": "-45.86413000",
+                        "longitude": "-67.49656000"
+                    },
+                    {
+                        "id": 839,
+                        "name": "Departamento de Biedma",
+                        "latitude": "-42.41667000",
+                        "longitude": "-65.00000000"
+                    },
+                    {
+                        "id": 873,
+                        "name": "Departamento de Cushamen",
+                        "latitude": "-42.50000000",
+                        "longitude": "-70.83333000"
+                    },
+                    {
+                        "id": 880,
+                        "name": "Departamento de Escalante",
+                        "latitude": "-45.33333000",
+                        "longitude": "-67.33333000"
+                    },
+                    {
+                        "id": 883,
+                        "name": "Departamento de Florentino Ameghino",
+                        "latitude": "-44.41667000",
+                        "longitude": "-66.16667000"
+                    },
+                    {
+                        "id": 885,
+                        "name": "Departamento de Futaleufú",
+                        "latitude": "-43.08333000",
+                        "longitude": "-71.41667000"
+                    },
+                    {
+                        "id": 886,
+                        "name": "Departamento de Gaimán",
+                        "latitude": "-43.33333000",
+                        "longitude": "-66.33333000"
+                    },
+                    {
+                        "id": 887,
+                        "name": "Departamento de Gastre",
+                        "latitude": "-42.83333000",
+                        "longitude": "-68.66667000"
+                    },
+                    {
+                        "id": 923,
+                        "name": "Departamento de Languiñeo",
+                        "latitude": "-43.33333000",
+                        "longitude": "-70.66667000"
+                    },
+                    {
+                        "id": 949,
+                        "name": "Departamento de Mártires",
+                        "latitude": "-43.83333000",
+                        "longitude": "-67.16667000"
+                    },
+                    {
+                        "id": 956,
+                        "name": "Departamento de Paso de Indios",
+                        "latitude": "-44.00000000",
+                        "longitude": "-68.83333000"
+                    },
+                    {
+                        "id": 963,
+                        "name": "Departamento de Rawson",
+                        "latitude": "-43.12342000",
+                        "longitude": "-65.10179000"
+                    },
+                    {
+                        "id": 979,
+                        "name": "Departamento de Río Senguerr",
+                        "latitude": "-45.33333000",
+                        "longitude": "-70.83333000"
+                    },
+                    {
+                        "id": 1012,
+                        "name": "Departamento de Sarmiento",
+                        "latitude": "-45.33333000",
+                        "longitude": "-69.00000000"
+                    },
+                    {
+                        "id": 1018,
+                        "name": "Departamento de Tehuelches",
+                        "latitude": "-44.22132000",
+                        "longitude": "-70.25260000"
+                    },
+                    {
+                        "id": 1019,
+                        "name": "Departamento de Telsen",
+                        "latitude": "-42.41667000",
+                        "longitude": "-67.16667000"
+                    },
+                    {
+                        "id": 1042,
+                        "name": "Dolavón",
+                        "latitude": "-43.30684000",
+                        "longitude": "-65.70651000"
+                    },
+                    {
+                        "id": 1058,
+                        "name": "El Maitén",
+                        "latitude": "-42.04924000",
+                        "longitude": "-71.16693000"
+                    },
+                    {
+                        "id": 1070,
+                        "name": "Esquel",
+                        "latitude": "-42.91147000",
+                        "longitude": "-71.31947000"
+                    },
+                    {
+                        "id": 1087,
+                        "name": "Gaimán",
+                        "latitude": "-43.28970000",
+                        "longitude": "-65.49290000"
+                    },
+                    {
+                        "id": 1092,
+                        "name": "Gastre",
+                        "latitude": "-42.26186000",
+                        "longitude": "-69.22112000"
+                    },
+                    {
+                        "id": 1115,
+                        "name": "Gobernador Costa",
+                        "latitude": "-44.04992000",
+                        "longitude": "-70.59798000"
+                    },
+                    {
+                        "id": 1141,
+                        "name": "Hoyo de Epuyén",
+                        "latitude": "-42.07189000",
+                        "longitude": "-71.50811000"
+                    },
+                    {
+                        "id": 1169,
+                        "name": "José de San Martín",
+                        "latitude": "-44.05032000",
+                        "longitude": "-70.46967000"
+                    },
+                    {
+                        "id": 1206,
+                        "name": "Lago Puelo",
+                        "latitude": "-42.06684000",
+                        "longitude": "-71.60384000"
+                    },
+                    {
+                        "id": 1229,
+                        "name": "Las Plumas",
+                        "latitude": "-43.72058000",
+                        "longitude": "-67.28319000"
+                    },
+                    {
+                        "id": 1359,
+                        "name": "Puerto Madryn",
+                        "latitude": "-42.76920000",
+                        "longitude": "-65.03851000"
+                    },
+                    {
+                        "id": 1371,
+                        "name": "Rada Tilly",
+                        "latitude": "-45.92462000",
+                        "longitude": "-67.55424000"
+                    },
+                    {
+                        "id": 1374,
+                        "name": "Rawson",
+                        "latitude": "-43.30016000",
+                        "longitude": "-65.10228000"
+                    },
+                    {
+                        "id": 1393,
+                        "name": "Río Mayo",
+                        "latitude": "-45.68573000",
+                        "longitude": "-70.25797000"
+                    },
+                    {
+                        "id": 1394,
+                        "name": "Río Pico",
+                        "latitude": "-44.17905000",
+                        "longitude": "-71.36847000"
+                    },
+                    {
+                        "id": 1477,
+                        "name": "Sarmiento",
+                        "latitude": "-45.58815000",
+                        "longitude": "-69.06996000"
+                    },
+                    {
+                        "id": 1499,
+                        "name": "Tecka",
+                        "latitude": "-43.49489000",
+                        "longitude": "-70.81020000"
+                    },
+                    {
+                        "id": 1512,
+                        "name": "Trelew",
+                        "latitude": "-43.24895000",
+                        "longitude": "-65.30505000"
+                    },
+                    {
+                        "id": 1516,
+                        "name": "Trevelin",
+                        "latitude": "-43.08580000",
+                        "longitude": "-71.46386000"
+                    }
+                ]
+            },
+            {
+                "id": 3642,
+                "name": "Córdoba Province",
+                "state_code": "X",
+                "cities": [
+                    {
+                        "id": 639,
+                        "name": "Achiras",
+                        "latitude": "-33.17538000",
+                        "longitude": "-64.99331000"
+                    },
+                    {
+                        "id": 640,
+                        "name": "Adelia María",
+                        "latitude": "-33.63152000",
+                        "longitude": "-64.02097000"
+                    },
+                    {
+                        "id": 641,
+                        "name": "Agua de Oro",
+                        "latitude": "-31.06661000",
+                        "longitude": "-64.30017000"
+                    },
+                    {
+                        "id": 647,
+                        "name": "Alejandro Roca",
+                        "latitude": "-33.35369000",
+                        "longitude": "-63.71849000"
+                    },
+                    {
+                        "id": 648,
+                        "name": "Alejo Ledesma",
+                        "latitude": "-33.60643000",
+                        "longitude": "-62.62304000"
+                    },
+                    {
+                        "id": 651,
+                        "name": "Almafuerte",
+                        "latitude": "-32.19296000",
+                        "longitude": "-64.25559000"
+                    },
+                    {
+                        "id": 653,
+                        "name": "Alta Gracia",
+                        "latitude": "-31.65292000",
+                        "longitude": "-64.42826000"
+                    },
+                    {
+                        "id": 656,
+                        "name": "Altos de Chipión",
+                        "latitude": "-30.95590000",
+                        "longitude": "-62.33727000"
+                    },
+                    {
+                        "id": 668,
+                        "name": "Arias",
+                        "latitude": "-33.64411000",
+                        "longitude": "-62.40272000"
+                    },
+                    {
+                        "id": 671,
+                        "name": "Arroyito",
+                        "latitude": "-31.42022000",
+                        "longitude": "-63.05002000"
+                    },
+                    {
+                        "id": 672,
+                        "name": "Arroyo Cabral",
+                        "latitude": "-32.49119000",
+                        "longitude": "-63.40126000"
+                    },
+                    {
+                        "id": 681,
+                        "name": "Balnearia",
+                        "latitude": "-31.00880000",
+                        "longitude": "-62.66733000"
+                    },
+                    {
+                        "id": 688,
+                        "name": "Bell Ville",
+                        "latitude": "-32.62591000",
+                        "longitude": "-62.68873000"
+                    },
+                    {
+                        "id": 695,
+                        "name": "Berrotarán",
+                        "latitude": "-32.45100000",
+                        "longitude": "-64.38867000"
+                    },
+                    {
+                        "id": 701,
+                        "name": "Brinkmann",
+                        "latitude": "-30.86589000",
+                        "longitude": "-62.03742000"
+                    },
+                    {
+                        "id": 702,
+                        "name": "Buchardo",
+                        "latitude": "-34.72263000",
+                        "longitude": "-63.50920000"
+                    },
+                    {
+                        "id": 716,
+                        "name": "Camilo Aldao",
+                        "latitude": "-33.12745000",
+                        "longitude": "-62.09453000"
+                    },
+                    {
+                        "id": 744,
+                        "name": "Cañada de Luque",
+                        "latitude": "-30.73341000",
+                        "longitude": "-63.72375000"
+                    },
+                    {
+                        "id": 723,
+                        "name": "Canals",
+                        "latitude": "-33.56542000",
+                        "longitude": "-62.88927000"
+                    },
