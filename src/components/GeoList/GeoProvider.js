@@ -24,7 +24,7 @@ export const GeoProvider = ({ children }) => {
     const loadCountries = async () => {        
         try {
             dispatch({ type: 'SEND_REQUEST' });
-            const res = await fetch('data/countries+states+cities.json', {
+            const res = await fetch('data/sample.json', {
              headers : {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
@@ -115,6 +115,7 @@ export const GeoProvider = ({ children }) => {
                 stateList: state.stateList,
                 cityList: state.cityList,
                 loading: state.loading,
+                initialLoadDone: state.initialLoadDone,
                 type: state.type, 
                 loadCountries,
                 loadStates,
