@@ -1,6 +1,6 @@
 import React from 'react';
 import { InfoIcon } from '../../common/ActionIcons';
-import '../listItem.css';
+import '../listitem.css';
 
 export const CityItem = ({ name }) => {
   return (
