@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { GeoContext } from '..';
 import { InfoIcon, ArrowForwardIcon } from '../../common/ActionIcons';
-import '../listItem.css';
+import '../listitem.css';
 
 export const StateItem = (({id, name, iso2, cities}) => {  
     const geoContext = useContext(GeoContext);
