@@ -2,7 +2,7 @@ import React, { useContext, useState }from 'react';
 import { InfoIcon, ArrowForwardIcon } from '../../common/ActionIcons';
 import { GeoContext } from '..';
 
-import '../listItem.css';
+import '../listitem.css';
 
 export const CountryItem = (({id, emojiU, name, iso2, states}) => {
     const geoContext = useContext(GeoContext);
