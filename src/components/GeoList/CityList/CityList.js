@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useMemo} from 'react';
+import React, { useContext, useEffect } from 'react';
 import { CityItem } from '.';
 import { Header, Search} from '../../common';
 import { GeoContext } from '..';
