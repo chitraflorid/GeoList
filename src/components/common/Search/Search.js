@@ -1,4 +1,4 @@
-import React, {useContext, useCallback, useEffect } from 'react';
+import React from 'react';
 
 import './search.css';
 
