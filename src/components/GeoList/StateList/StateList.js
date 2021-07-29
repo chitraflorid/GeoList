@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useMemo} from 'react';
+import React, { useContext, useEffect } from 'react';
 import { StateItem } from '.';
 import { GeoContext } from '..';
 import { Header, Search} from '../../common';
